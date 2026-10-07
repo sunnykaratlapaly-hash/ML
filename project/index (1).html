@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Esports AI Predictor</title><link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<header><div class="brand">⚡ ESPORTS AI</div><nav><a href="/">Predict</a><a href="/dataset">Dataset</a><a href="/api/stats">API Stats</a></nav></header>
+<main>
+<section class="hero"><div><p class="eyebrow">DEEP LEARNING MATCH ANALYTICS</p><h1>Esports Match<br><span>Outcome Prediction</span></h1>
+<p class="sub">Enter match statistics and let the neural network estimate the probability of a Win or Loss.</p></div>
+<div class="stats"><div><b>{{total}}</b><small>Matches</small></div><div><b>{{wins}}</b><small>Wins</small></div><div><b>{{losses}}</b><small>Losses</small></div></div></section>
+<form method="POST" action="/predict" class="card">
+<h2>Match Details</h2>
+<div class="grid">
+<label>Team<select name="team">{% for x in teams %}<option>{{x}}</option>{% endfor %}</select></label>
+<label>Opponent<select name="opponent">{% for x in teams %}<option>{{x}}</option>{% endfor %}</select></label>
+<label>Map<select name="map">{% for x in maps %}<option>{{x}}</option>{% endfor %}</select></label>
+<label>Match Mode<select name="match_mode">{% for x in modes %}<option>{{x}}</option>{% endfor %}</select></label>
+<label>Kills<input name="kills" type="number" min="0" value="15" required></label>
+<label>Deaths<input name="deaths" type="number" min="0" value="10" required></label>
+<label>Assists<input name="assists" type="number" min="0" value="6" required></label>
+<label>Gold Difference<input name="gold_difference" type="number" value="2000" required></label>
+<label>Objective Score<input name="objective_score" type="number" min="0" max="100" value="60" required></label>
+<label>Team Rating<input name="team_rating" type="number" step="0.01" value="80" required></label>
+<label>Opponent Rating<input name="opponent_rating" type="number" step="0.01" value="75" required></label>
+<label>Recent Wins (last 5)<input name="recent_wins" type="number" min="0" max="5" value="3" required></label>
+<label>Recent Losses (last 5)<input name="recent_losses" type="number" min="0" max="5" value="2" required></label>
+<label>Map Advantage<input name="map_advantage" type="number" min="0" max="10" value="5" required></label>
+<label>Match Duration (minutes)<input name="match_duration_minutes" type="number" min="1" value="30" required></label>
+</div>
+<button type="submit">PREDICT MATCH OUTCOME →</button>
+</form>
+</main>
+</body></html>

@@ -1,0 +1,1001 @@
+match_id,team,opponent,map,match_mode,kills,deaths,assists,gold_difference,objective_score,team_rating,opponent_rating,recent_wins,recent_losses,map_advantage,match_duration_minutes,outcome
+1,Team Blaze,Team Alpha,Erangel,Ranked,19,9,7,-5856,33,84.1,93.36,0,5,9,39,Loss
+2,Team Dragon,Team Nova,Mirage,Tournament,3,19,6,12493,48,74.32,66.96,0,5,2,39,Win
+3,Team Falcon,Team Blaze,Inferno,Ranked,7,14,3,8526,64,80.96,89.71,5,0,7,46,Win
+4,Team Elite,Team Galaxy,Nuke,Tournament,14,24,2,-11997,49,88.24,97.36,1,4,1,36,Loss
+5,Team Falcon,Team Cyber,Inferno,Tournament,25,13,6,2496,29,81.19,62.36,5,0,3,22,Win
+6,Team Inferno,Team Dragon,Nuke,League,22,3,7,-12897,60,72.25,57.85,4,1,5,25,Loss
+7,Team Hunter,Team Cyber,Nuke,League,18,6,7,2219,94,73.42,80.09,2,3,3,20,Win
+8,Team Alpha,Team Cyber,Erangel,League,11,22,5,12666,96,57.73,71.41,3,2,8,28,Win
+9,Team Blaze,Team Nova,Miramar,Ranked,19,22,10,-7690,57,73.69,74.51,5,0,4,44,Loss
+10,Team Elite,Team Nova,Erangel,Tournament,14,6,11,-4413,89,96.0,94.66,0,5,9,32,Loss
+11,Team Falcon,Team Elite,Nuke,League,17,3,7,-9839,30,86.47,90.09,4,1,2,20,Loss
+12,Team Cyber,Team Falcon,Dust II,League,35,21,13,-1120,89,87.48,84.66,5,0,4,37,Win
+13,Team Inferno,Team Hunter,Erangel,Ranked,9,9,7,-10804,63,55.9,78.82,4,1,3,12,Loss
+14,Team Alpha,Team Galaxy,Nuke,Ranked,6,18,7,3250,82,64.21,60.69,4,1,9,42,Win
+15,Team Dragon,Team Blaze,Miramar,League,8,23,13,8219,74,72.68,92.14,0,5,10,53,Win
+16,Team Falcon,Team Blaze,Miramar,League,17,8,6,14400,37,73.14,66.98,1,4,1,40,Win
+17,Team Inferno,Team Alpha,Inferno,Ranked,7,9,5,11634,82,75.7,92.18,0,5,2,36,Win
+18,Team Hunter,Team Elite,Dust II,League,29,24,15,-4856,44,67.76,96.65,4,1,8,15,Loss
+19,Team Nova,Team Hunter,Inferno,Ranked,34,18,5,-11273,85,58.44,62.99,4,1,1,55,Loss
+20,Team Nova,Team Dragon,Dust II,League,4,21,2,12474,94,79.3,68.6,2,3,3,54,Win
+21,Team Galaxy,Team Cyber,Mirage,Ranked,21,16,10,-10246,21,74.71,97.93,0,5,1,46,Loss
+22,Team Falcon,Team Blaze,Mirage,Ranked,17,13,9,-4662,76,90.85,85.25,4,1,10,45,Loss
+23,Team Blaze,Team Dragon,Mirage,League,18,5,3,-4813,54,67.12,64.06,2,3,3,55,Loss
+24,Team Elite,Team Alpha,Nuke,League,7,22,13,3132,25,55.15,88.16,5,0,4,22,Win
+25,Team Galaxy,Team Nova,Erangel,Ranked,2,5,2,-5232,89,56.55,70.88,4,1,2,39,Loss
+26,Team Alpha,Team Galaxy,Sanhok,Ranked,15,23,7,-8264,65,88.54,93.02,3,2,9,21,Loss
+27,Team Cyber,Team Hunter,Vikendi,Tournament,3,7,10,11982,51,66.47,88.86,0,5,6,14,Win
+28,Team Hunter,Team Falcon,Inferno,League,21,9,7,-13450,44,72.13,66.98,0,5,4,34,Loss
+29,Team Inferno,Team Falcon,Dust II,Tournament,3,5,8,-3298,94,96.39,66.42,0,5,9,39,Win
+30,Team Inferno,Team Blaze,Dust II,Ranked,26,20,6,1693,25,85.48,55.07,4,1,10,54,Win
+31,Team Falcon,Team Galaxy,Inferno,Tournament,9,25,9,5269,72,69.03,84.98,4,1,2,24,Win
+32,Team Cyber,Team Falcon,Nuke,Tournament,27,19,0,4914,56,64.04,88.79,4,1,10,32,Win
+33,Team Dragon,Team Nova,Mirage,League,32,25,5,-9443,56,77.16,82.22,2,3,1,27,Loss
+34,Team Dragon,Team Cyber,Inferno,Ranked,3,3,7,16138,98,91.54,58.13,3,2,10,48,Win
+35,Team Dragon,Team Cyber,Miramar,Ranked,2,5,13,-659,42,89.58,84.92,3,2,0,47,Win
+36,Team Hunter,Team Nova,Nuke,Tournament,22,16,13,14223,40,86.98,75.41,2,3,3,52,Win
+37,Team Elite,Team Inferno,Inferno,Ranked,6,24,9,367,54,69.44,93.4,0,5,2,21,Loss
+38,Team Dragon,Team Blaze,Inferno,League,28,15,10,15534,73,57.68,90.81,3,2,9,13,Win
+39,Team Falcon,Team Elite,Inferno,League,26,15,7,16996,48,66.74,75.88,3,2,5,54,Win
+40,Team Hunter,Team Cyber,Vikendi,Tournament,3,14,0,-9499,74,60.84,74.85,0,5,4,36,Loss
+41,Team Falcon,Team Hunter,Erangel,Ranked,19,15,8,-9633,80,55.83,78.2,2,3,3,53,Loss
+42,Team Dragon,Team Elite,Sanhok,Tournament,3,21,4,633,36,75.36,59.92,1,4,7,28,Win
+43,Team Blaze,Team Dragon,Vikendi,League,21,5,0,5444,93,84.13,96.2,3,2,3,16,Win
+44,Team Elite,Team Blaze,Dust II,Tournament,4,13,13,9285,28,76.76,69.67,3,2,7,18,Win
+45,Team Hunter,Team Cyber,Mirage,Ranked,29,7,8,16686,79,73.73,86.43,2,3,5,27,Win
+46,Team Dragon,Team Inferno,Mirage,League,26,12,0,17394,61,62.82,64.12,2,3,5,29,Win
+47,Team Inferno,Team Dragon,Miramar,Ranked,7,9,13,17019,91,87.6,84.7,5,0,7,40,Win
+48,Team Galaxy,Team Dragon,Nuke,Tournament,21,23,11,16015,90,77.83,73.3,5,0,8,33,Win
+49,Team Elite,Team Dragon,Nuke,Ranked,9,25,6,5679,35,86.94,95.89,5,0,2,24,Win
+50,Team Nova,Team Inferno,Erangel,Tournament,20,5,6,4414,49,70.52,68.0,5,0,8,20,Win
+51,Team Inferno,Team Elite,Mirage,Ranked,10,22,15,-8277,21,79.68,75.18,3,2,5,23,Loss
+52,Team Hunter,Team Blaze,Vikendi,Ranked,6,14,15,-10145,93,82.07,57.31,1,4,9,31,Loss
+53,Team Galaxy,Team Dragon,Miramar,Ranked,35,14,14,14014,58,91.99,97.57,2,3,9,51,Win
+54,Team Dragon,Team Elite,Nuke,League,18,23,2,-4708,50,62.47,58.23,0,5,6,40,Loss
+55,Team Dragon,Team Falcon,Inferno,Ranked,20,24,14,-10336,49,94.73,88.88,5,0,9,54,Loss
+56,Team Dragon,Team Cyber,Nuke,Ranked,19,6,2,-11092,41,89.08,80.59,4,1,4,40,Loss
+57,Team Galaxy,Team Elite,Erangel,Tournament,34,19,15,13688,30,80.72,93.25,5,0,5,50,Win
+58,Team Nova,Team Alpha,Nuke,Tournament,19,20,1,-3519,80,77.32,74.02,2,3,2,49,Loss
+59,Team Hunter,Team Falcon,Erangel,League,28,12,10,-8145,40,69.18,84.83,2,3,10,37,Loss
+60,Team Falcon,Team Elite,Nuke,Tournament,22,5,12,-14925,89,74.86,57.33,4,1,5,51,Loss
+61,Team Dragon,Team Falcon,Erangel,League,10,11,14,16766,35,56.24,82.09,1,4,2,31,Win
+62,Team Blaze,Team Elite,Nuke,Tournament,9,16,3,-4910,83,95.1,67.55,5,0,4,38,Loss
+63,Team Inferno,Team Cyber,Mirage,Ranked,26,8,4,-10425,55,88.23,91.74,2,3,8,29,Loss
+64,Team Nova,Team Hunter,Vikendi,League,11,16,15,7618,62,78.73,78.37,3,2,5,24,Win
+65,Team Dragon,Team Hunter,Sanhok,Ranked,4,12,15,9984,69,97.5,89.07,5,0,2,43,Win
+66,Team Nova,Team Falcon,Mirage,Tournament,8,16,3,14945,21,86.07,72.63,5,0,2,16,Win
+67,Team Galaxy,Team Blaze,Vikendi,Ranked,23,23,12,5752,100,85.9,87.65,4,1,0,51,Win
+68,Team Elite,Team Dragon,Mirage,Ranked,7,15,3,-8414,76,62.15,67.88,0,5,0,32,Loss
+69,Team Galaxy,Team Cyber,Nuke,Ranked,17,18,13,-3200,41,62.53,81.21,3,2,9,55,Loss
+70,Team Cyber,Team Elite,Sanhok,League,31,22,8,15118,52,83.67,93.65,3,2,4,55,Win
+71,Team Falcon,Team Elite,Dust II,Tournament,29,24,8,14939,58,63.57,71.54,3,2,1,27,Win
+72,Team Elite,Team Alpha,Vikendi,Tournament,27,10,0,-11786,97,87.04,90.81,2,3,3,50,Loss
+73,Team Nova,Team Elite,Dust II,Tournament,10,22,3,-12417,59,88.91,56.43,2,3,2,17,Loss
+74,Team Cyber,Team Elite,Nuke,Ranked,10,19,11,17885,54,90.71,66.05,3,2,4,33,Win
+75,Team Cyber,Team Elite,Mirage,League,27,19,11,-9082,70,55.6,78.07,3,2,5,55,Loss
+76,Team Falcon,Team Blaze,Miramar,Tournament,16,17,0,6496,98,64.52,57.72,3,2,4,53,Win
+77,Team Alpha,Team Falcon,Sanhok,League,33,5,3,387,88,60.83,74.51,5,0,8,38,Win
+78,Team Blaze,Team Inferno,Dust II,Tournament,28,10,1,9283,47,74.07,95.87,2,3,1,55,Win
+79,Team Elite,Team Dragon,Vikendi,League,9,16,2,-1100,96,96.76,57.17,2,3,3,20,Win
+80,Team Inferno,Team Dragon,Sanhok,Tournament,15,9,10,-5330,96,55.12,91.91,1,4,2,46,Loss
+81,Team Alpha,Team Dragon,Miramar,Ranked,2,13,7,6218,22,62.49,57.25,5,0,6,45,Win
+82,Team Falcon,Team Nova,Inferno,Tournament,8,16,7,-12159,86,67.97,82.66,0,5,0,42,Loss
+83,Team Hunter,Team Inferno,Mirage,Tournament,6,4,10,-5279,28,60.43,81.85,4,1,8,32,Loss
+84,Team Nova,Team Galaxy,Miramar,Tournament,8,24,3,-909,75,74.42,64.83,2,3,7,37,Win
+85,Team Falcon,Team Elite,Erangel,League,25,6,15,-10601,31,90.77,59.01,0,5,5,20,Loss
+86,Team Inferno,Team Nova,Mirage,League,23,23,3,11922,65,92.57,95.47,3,2,0,30,Win
+87,Team Nova,Team Inferno,Inferno,Ranked,15,6,15,-304,33,70.05,78.92,0,5,4,48,Loss
+88,Team Nova,Team Inferno,Sanhok,Ranked,3,21,8,-13103,43,66.75,87.78,2,3,5,12,Loss
+89,Team Galaxy,Team Blaze,Dust II,Tournament,11,25,0,-8987,87,64.25,73.05,2,3,2,35,Loss
+90,Team Nova,Team Blaze,Mirage,Tournament,5,6,5,-11739,30,66.7,83.46,3,2,9,40,Loss
+91,Team Inferno,Team Blaze,Erangel,League,24,15,3,3562,95,75.93,83.69,0,5,3,37,Win
+92,Team Elite,Team Dragon,Vikendi,League,10,10,9,6503,35,55.33,87.12,1,4,2,36,Win
+93,Team Falcon,Team Blaze,Inferno,League,27,25,1,13588,22,74.77,58.35,2,3,9,39,Win
+94,Team Galaxy,Team Elite,Miramar,Tournament,9,14,0,6284,41,89.46,81.58,5,0,5,17,Win
+95,Team Nova,Team Galaxy,Vikendi,Ranked,35,4,12,5334,63,64.53,88.5,0,5,8,52,Win
+96,Team Falcon,Team Galaxy,Nuke,League,11,9,3,-5403,52,63.48,80.9,5,0,1,23,Loss
+97,Team Nova,Team Hunter,Dust II,Ranked,22,22,10,-5107,76,57.94,74.01,2,3,4,49,Loss
+98,Team Elite,Team Inferno,Inferno,League,30,3,1,9165,56,58.3,92.16,0,5,9,50,Win
+99,Team Inferno,Team Alpha,Miramar,Tournament,30,20,6,6071,97,75.45,61.49,0,5,7,18,Win
+100,Team Cyber,Team Alpha,Dust II,Tournament,17,24,14,13797,87,77.48,61.83,2,3,4,36,Win
+101,Team Alpha,Team Galaxy,Sanhok,Ranked,6,12,3,10333,56,65.84,91.62,4,1,2,33,Win
+102,Team Elite,Team Hunter,Miramar,League,10,21,2,5288,91,71.2,89.04,1,4,10,55,Win
+103,Team Galaxy,Team Nova,Sanhok,Ranked,25,2,11,5241,43,95.9,69.69,3,2,3,26,Win
+104,Team Blaze,Team Nova,Nuke,League,35,3,10,-6412,96,71.2,61.98,5,0,9,22,Loss
+105,Team Falcon,Team Dragon,Nuke,League,30,21,9,14420,49,77.96,68.31,3,2,3,35,Win
+106,Team Elite,Team Hunter,Dust II,Tournament,34,18,13,-4380,45,89.45,60.95,2,3,0,53,Loss
+107,Team Blaze,Team Nova,Dust II,Tournament,9,11,2,-4494,54,74.32,77.07,3,2,1,26,Loss
+108,Team Galaxy,Team Alpha,Dust II,League,27,18,11,451,69,97.76,71.12,0,5,5,18,Win
+109,Team Cyber,Team Alpha,Inferno,Ranked,20,17,4,15743,77,81.46,93.95,0,5,4,25,Win
+110,Team Elite,Team Dragon,Erangel,League,21,5,1,626,73,82.47,81.78,0,5,1,43,Win
+111,Team Nova,Team Dragon,Dust II,Ranked,11,11,13,-14898,98,70.17,79.54,1,4,10,54,Loss
+112,Team Inferno,Team Nova,Miramar,Tournament,34,18,0,10588,80,56.87,71.64,2,3,4,13,Win
+113,Team Blaze,Team Galaxy,Sanhok,Ranked,10,3,11,7187,42,90.71,84.44,5,0,7,52,Win
+114,Team Hunter,Team Alpha,Erangel,Tournament,20,8,1,-1928,25,68.57,68.33,3,2,8,42,Loss
+115,Team Dragon,Team Falcon,Sanhok,Tournament,24,3,10,2905,35,89.37,73.79,3,2,7,36,Win
+116,Team Hunter,Team Falcon,Miramar,Tournament,35,10,2,12820,30,73.52,97.79,1,4,8,30,Win
+117,Team Elite,Team Falcon,Erangel,Tournament,30,21,13,-4079,76,70.12,56.82,2,3,9,39,Loss
+118,Team Galaxy,Team Falcon,Vikendi,Ranked,34,25,5,-12960,38,91.49,84.16,3,2,0,20,Loss
+119,Team Falcon,Team Galaxy,Dust II,League,26,20,1,-4945,77,95.8,71.0,0,5,9,20,Loss
+120,Team Elite,Team Dragon,Mirage,Ranked,9,2,5,17705,86,71.64,79.15,2,3,4,40,Win
+121,Team Hunter,Team Dragon,Dust II,League,9,6,2,14625,42,93.64,74.14,0,5,10,32,Win
+122,Team Inferno,Team Nova,Erangel,Tournament,20,11,5,-3591,66,76.88,60.22,1,4,2,27,Loss
+123,Team Nova,Team Falcon,Inferno,Tournament,31,19,4,-9350,28,68.3,97.98,5,0,7,45,Loss
+124,Team Blaze,Team Dragon,Sanhok,Ranked,22,22,2,14489,79,84.24,69.81,4,1,10,49,Win
+125,Team Alpha,Team Cyber,Mirage,Ranked,35,6,9,-4210,40,68.87,85.5,2,3,8,30,Loss
+126,Team Inferno,Team Elite,Dust II,League,10,22,9,-8878,84,82.56,80.45,4,1,2,22,Loss
+127,Team Nova,Team Alpha,Mirage,League,3,4,1,2344,46,87.98,72.91,5,0,0,43,Win
+128,Team Elite,Team Inferno,Vikendi,Tournament,17,23,12,4492,78,58.14,57.58,3,2,6,42,Win
+129,Team Cyber,Team Galaxy,Miramar,Tournament,22,25,11,11130,36,87.71,77.14,0,5,5,27,Win
+130,Team Dragon,Team Cyber,Dust II,League,8,3,9,10175,98,72.98,96.4,1,4,5,48,Win
+131,Team Cyber,Team Inferno,Dust II,Ranked,34,16,15,5220,83,56.0,95.65,4,1,7,27,Win
+132,Team Elite,Team Inferno,Inferno,Ranked,32,11,0,-7956,75,60.76,66.37,2,3,6,35,Loss
+133,Team Inferno,Team Dragon,Miramar,League,25,19,9,-10182,69,76.68,87.87,2,3,9,55,Loss
+134,Team Blaze,Team Hunter,Dust II,Ranked,25,12,11,-5546,45,80.91,72.26,0,5,0,14,Loss
+135,Team Inferno,Team Hunter,Nuke,Tournament,11,21,4,6493,98,68.7,71.9,4,1,4,49,Win
+136,Team Elite,Team Inferno,Nuke,League,3,13,10,-7817,73,80.1,89.26,5,0,10,13,Loss
+137,Team Nova,Team Dragon,Erangel,Ranked,5,20,15,-3826,87,82.05,81.65,3,2,2,55,Loss
+138,Team Blaze,Team Elite,Erangel,League,3,16,10,12445,39,72.76,63.77,4,1,9,42,Win
+139,Team Inferno,Team Dragon,Mirage,Tournament,22,23,15,9695,60,96.14,74.77,4,1,5,46,Win
+140,Team Dragon,Team Elite,Dust II,Tournament,19,19,9,-264,58,88.16,85.31,5,0,7,32,Win
+141,Team Elite,Team Falcon,Miramar,League,9,20,12,10856,64,96.05,89.6,2,3,0,30,Win
+142,Team Hunter,Team Elite,Erangel,Ranked,32,8,6,2768,91,84.94,60.9,4,1,9,27,Win
+143,Team Inferno,Team Dragon,Inferno,Ranked,16,3,3,12086,62,85.85,59.32,1,4,0,47,Win
+144,Team Hunter,Team Inferno,Erangel,League,14,11,10,3704,27,94.04,58.85,4,1,3,46,Win
+145,Team Cyber,Team Hunter,Miramar,Tournament,13,3,12,17465,43,95.27,96.37,2,3,0,12,Win
+146,Team Falcon,Team Elite,Nuke,League,31,22,15,-6206,84,75.12,63.29,0,5,5,22,Loss
+147,Team Cyber,Team Alpha,Inferno,Ranked,23,11,6,-3499,98,91.81,93.57,3,2,8,32,Loss
+148,Team Cyber,Team Dragon,Erangel,League,32,12,7,-14553,53,71.49,74.21,2,3,5,31,Loss
+149,Team Falcon,Team Dragon,Mirage,League,5,23,3,15500,59,61.87,84.5,5,0,4,19,Win
+150,Team Dragon,Team Elite,Vikendi,Ranked,10,17,4,14817,97,71.07,85.18,3,2,8,54,Win
+151,Team Nova,Team Blaze,Sanhok,League,35,16,11,-9882,92,59.82,90.64,4,1,3,48,Loss
+152,Team Inferno,Team Hunter,Inferno,League,9,23,6,17035,31,93.65,74.16,0,5,7,20,Win
+153,Team Alpha,Team Nova,Inferno,Ranked,31,23,9,-13574,70,65.94,55.13,1,4,9,16,Loss
+154,Team Blaze,Team Nova,Inferno,Tournament,5,4,15,-12921,56,72.58,88.07,5,0,10,38,Loss
+155,Team Galaxy,Team Hunter,Erangel,Ranked,7,23,4,7791,35,62.67,78.1,4,1,2,26,Win
+156,Team Hunter,Team Nova,Inferno,League,29,19,12,51,51,74.81,61.67,1,4,1,14,Win
+157,Team Alpha,Team Elite,Nuke,Tournament,15,4,3,-12800,77,80.7,85.24,0,5,3,14,Loss
+158,Team Dragon,Team Alpha,Sanhok,Tournament,10,18,9,346,93,68.71,80.71,5,0,5,27,Win
+159,Team Inferno,Team Dragon,Nuke,Tournament,28,11,8,-11006,91,95.79,92.83,1,4,10,55,Loss
+160,Team Falcon,Team Hunter,Mirage,Ranked,35,12,13,11755,39,67.9,62.91,4,1,7,27,Win
+161,Team Cyber,Team Inferno,Miramar,League,5,19,13,12296,91,77.79,71.7,2,3,3,33,Win
+162,Team Falcon,Team Blaze,Vikendi,League,14,3,8,9718,97,80.93,92.57,1,4,9,54,Win
+163,Team Falcon,Team Elite,Dust II,Ranked,2,8,6,-7312,81,94.32,84.91,5,0,3,37,Loss
+164,Team Galaxy,Team Inferno,Dust II,Ranked,24,11,8,8569,85,92.96,75.04,5,0,7,32,Win
+165,Team Alpha,Team Elite,Dust II,Tournament,11,2,8,12366,57,61.55,69.18,3,2,9,27,Win
+166,Team Hunter,Team Inferno,Erangel,League,31,7,11,-3908,37,85.97,76.0,4,1,10,15,Loss
+167,Team Blaze,Team Alpha,Nuke,Ranked,2,15,4,167,28,85.41,55.39,4,1,7,35,Win
+168,Team Alpha,Team Blaze,Miramar,Ranked,28,2,0,3005,88,97.03,55.74,5,0,10,39,Win
+169,Team Inferno,Team Cyber,Vikendi,Ranked,17,8,8,8228,54,89.18,58.4,3,2,7,48,Win
+170,Team Blaze,Team Alpha,Inferno,Tournament,7,14,12,9718,90,75.47,82.38,5,0,2,17,Win
+171,Team Falcon,Team Blaze,Erangel,League,35,3,7,-1145,92,75.45,57.0,0,5,10,29,Win
+172,Team Falcon,Team Alpha,Dust II,League,15,20,4,11102,29,67.87,79.25,4,1,6,55,Win
+173,Team Cyber,Team Blaze,Inferno,League,34,25,11,-11481,32,73.79,91.06,2,3,9,51,Loss
+174,Team Falcon,Team Alpha,Inferno,League,19,16,15,-49,65,78.78,71.14,1,4,10,49,Win
+175,Team Nova,Team Elite,Dust II,Tournament,17,24,2,-9624,54,61.63,85.6,5,0,2,36,Loss
+176,Team Alpha,Team Falcon,Miramar,Tournament,30,13,8,-8301,36,58.75,73.53,4,1,8,44,Loss
+177,Team Falcon,Team Nova,Sanhok,League,7,21,10,10246,21,67.55,71.68,0,5,8,27,Win
+178,Team Cyber,Team Dragon,Dust II,Ranked,19,11,8,17317,38,57.72,73.69,3,2,4,42,Win
+179,Team Dragon,Team Inferno,Dust II,Tournament,14,16,3,-6121,58,55.29,72.01,4,1,6,33,Loss
+180,Team Nova,Team Cyber,Vikendi,Tournament,21,12,6,16392,60,62.64,72.12,2,3,4,52,Win
+181,Team Elite,Team Hunter,Miramar,Tournament,25,5,6,-3209,90,56.16,86.27,5,0,3,40,Loss
+182,Team Galaxy,Team Inferno,Nuke,League,10,22,9,861,52,83.32,85.76,3,2,1,40,Win
+183,Team Inferno,Team Nova,Dust II,League,28,19,1,8562,88,80.53,94.32,0,5,3,54,Win
+184,Team Nova,Team Alpha,Vikendi,League,27,12,13,-8057,21,59.24,64.55,5,0,8,47,Loss
+185,Team Galaxy,Team Inferno,Mirage,Tournament,34,6,11,-13391,81,59.5,72.89,0,5,1,21,Loss
+186,Team Dragon,Team Nova,Miramar,League,32,13,15,-8603,76,86.05,74.46,0,5,4,14,Loss
+187,Team Falcon,Team Blaze,Sanhok,League,12,25,7,-3568,90,61.89,79.07,3,2,3,37,Loss
+188,Team Galaxy,Team Hunter,Miramar,League,3,25,6,14463,95,73.47,55.19,1,4,3,29,Win
+189,Team Inferno,Team Cyber,Inferno,League,25,12,6,14986,34,66.28,92.09,4,1,10,32,Win
+190,Team Nova,Team Blaze,Vikendi,Ranked,24,13,14,-3694,58,94.5,80.38,5,0,2,32,Loss
+191,Team Cyber,Team Galaxy,Sanhok,League,11,18,12,12409,96,60.93,71.5,1,4,7,52,Win
+192,Team Hunter,Team Elite,Inferno,Ranked,10,7,10,14556,99,57.31,70.44,0,5,7,20,Win
+193,Team Inferno,Team Hunter,Mirage,Ranked,28,23,15,12238,76,76.01,58.55,0,5,3,30,Win
+194,Team Elite,Team Cyber,Nuke,League,31,20,15,-7581,93,59.91,88.33,2,3,8,14,Loss
+195,Team Galaxy,Team Blaze,Dust II,Ranked,17,11,1,14473,53,69.99,90.12,3,2,1,27,Win
+196,Team Nova,Team Galaxy,Sanhok,League,12,21,4,-1459,46,89.63,79.51,4,1,4,50,Loss
+197,Team Elite,Team Falcon,Sanhok,Ranked,19,18,3,-6115,72,94.51,97.68,5,0,2,20,Loss
+198,Team Dragon,Team Hunter,Mirage,League,33,6,8,12146,68,74.44,82.25,0,5,6,44,Win
+199,Team Falcon,Team Inferno,Inferno,Ranked,33,12,0,-8896,78,82.3,84.98,0,5,8,37,Loss
+200,Team Hunter,Team Elite,Nuke,Ranked,22,11,10,-6442,92,91.65,88.9,5,0,0,14,Loss
+201,Team Cyber,Team Inferno,Mirage,Tournament,31,2,13,-1741,36,92.93,67.98,2,3,1,53,Win
+202,Team Cyber,Team Alpha,Sanhok,Ranked,27,22,9,344,74,83.19,85.26,0,5,3,42,Win
+203,Team Inferno,Team Hunter,Miramar,League,2,2,10,-7097,74,84.84,75.54,1,4,6,17,Loss
+204,Team Falcon,Team Elite,Vikendi,Tournament,10,14,4,-5638,28,77.81,55.36,5,0,2,40,Loss
+205,Team Cyber,Team Hunter,Sanhok,Tournament,30,8,2,-8416,37,87.36,80.35,3,2,5,39,Loss
+206,Team Blaze,Team Elite,Erangel,League,20,24,0,4768,46,77.26,76.91,5,0,6,30,Win
+207,Team Dragon,Team Inferno,Inferno,Ranked,26,5,7,17740,96,58.05,93.22,0,5,5,32,Win
+208,Team Nova,Team Galaxy,Inferno,Ranked,25,19,5,15868,29,55.72,57.9,2,3,3,14,Win
+209,Team Inferno,Team Galaxy,Vikendi,League,29,24,12,-9599,88,78.12,61.57,0,5,4,17,Loss
+210,Team Cyber,Team Nova,Miramar,Tournament,22,14,2,5327,75,86.39,91.4,0,5,3,17,Win
+211,Team Nova,Team Alpha,Mirage,League,21,23,5,-7173,21,85.44,85.16,1,4,7,34,Loss
+212,Team Cyber,Team Falcon,Nuke,Tournament,9,2,10,13136,54,77.53,66.31,4,1,10,16,Win
+213,Team Alpha,Team Inferno,Erangel,Ranked,12,13,5,1719,33,93.45,83.99,0,5,3,44,Win
+214,Team Alpha,Team Elite,Vikendi,Tournament,4,17,11,10098,39,62.7,96.29,0,5,8,53,Win
+215,Team Galaxy,Team Falcon,Miramar,Tournament,19,4,11,-7175,84,83.95,57.26,1,4,8,14,Loss
+216,Team Elite,Team Falcon,Dust II,Tournament,22,4,14,-14478,67,63.63,79.24,2,3,9,27,Loss
+217,Team Hunter,Team Dragon,Inferno,Ranked,17,6,0,11872,23,65.02,69.9,5,0,0,33,Win
+218,Team Elite,Team Blaze,Vikendi,Ranked,15,18,7,12513,82,96.33,96.82,1,4,4,17,Win
+219,Team Inferno,Team Galaxy,Inferno,Ranked,25,16,2,-8737,84,60.74,90.26,0,5,9,48,Loss
+220,Team Cyber,Team Elite,Miramar,League,20,10,10,10752,61,68.68,66.69,0,5,3,20,Win
+221,Team Cyber,Team Inferno,Miramar,Tournament,31,12,13,-7088,88,70.41,88.12,3,2,4,41,Loss
+222,Team Elite,Team Alpha,Sanhok,Tournament,15,12,4,-9023,51,96.64,72.04,0,5,10,31,Loss
+223,Team Galaxy,Team Inferno,Dust II,Tournament,17,5,14,-8322,37,60.22,57.65,1,4,2,24,Loss
+224,Team Blaze,Team Falcon,Erangel,Tournament,6,2,2,-2041,76,89.8,58.96,2,3,1,14,Win
+225,Team Nova,Team Galaxy,Sanhok,Tournament,27,17,0,10082,74,62.43,64.23,1,4,4,29,Win
+226,Team Nova,Team Dragon,Vikendi,League,20,17,13,16393,27,58.77,71.47,3,2,3,53,Win
+227,Team Inferno,Team Alpha,Mirage,Tournament,26,24,11,16436,89,88.6,69.79,4,1,8,32,Win
+228,Team Falcon,Team Dragon,Vikendi,Ranked,3,10,1,15912,87,70.37,80.11,1,4,2,18,Win
+229,Team Alpha,Team Elite,Dust II,Ranked,26,13,5,-3460,50,80.48,89.67,5,0,5,49,Loss
+230,Team Nova,Team Cyber,Nuke,League,14,17,9,-3495,82,56.63,57.42,4,1,3,13,Loss
+231,Team Nova,Team Dragon,Miramar,Tournament,10,12,5,6206,27,55.94,80.22,1,4,1,45,Win
+232,Team Galaxy,Team Blaze,Sanhok,Tournament,23,11,10,-6058,40,86.49,73.79,5,0,7,53,Loss
+233,Team Inferno,Team Falcon,Erangel,Tournament,16,23,5,9797,59,86.56,67.66,1,4,0,48,Win
+234,Team Falcon,Team Dragon,Dust II,League,8,17,4,6703,29,65.23,97.24,1,4,10,17,Win
+235,Team Elite,Team Dragon,Inferno,League,17,24,2,7969,52,88.84,85.98,0,5,6,40,Win
+236,Team Galaxy,Team Inferno,Miramar,Tournament,26,13,12,-8353,81,88.92,79.86,5,0,3,22,Loss
+237,Team Alpha,Team Falcon,Dust II,Ranked,3,12,8,-8137,29,69.7,93.18,1,4,1,47,Loss
+238,Team Nova,Team Hunter,Mirage,League,3,15,5,13455,40,57.3,69.24,1,4,6,47,Win
+239,Team Elite,Team Dragon,Nuke,League,8,3,12,17174,39,57.34,55.16,0,5,4,54,Win
+240,Team Alpha,Team Elite,Mirage,League,12,22,9,-9631,80,91.28,68.26,3,2,7,43,Loss
+241,Team Inferno,Team Galaxy,Erangel,Tournament,13,13,12,9209,43,74.17,66.32,3,2,4,26,Win
+242,Team Blaze,Team Cyber,Nuke,League,24,19,13,-90,90,57.62,71.65,4,1,6,46,Win
+243,Team Dragon,Team Inferno,Miramar,Ranked,21,4,12,-12725,84,79.56,77.22,4,1,10,51,Loss
+244,Team Hunter,Team Cyber,Mirage,Ranked,12,8,6,-6731,25,73.21,97.5,3,2,3,52,Loss
+245,Team Blaze,Team Cyber,Inferno,League,26,19,12,6373,55,77.35,94.44,0,5,9,49,Win
+246,Team Cyber,Team Dragon,Nuke,Tournament,8,5,3,3749,88,92.85,92.75,2,3,6,53,Win
+247,Team Elite,Team Hunter,Dust II,Tournament,11,21,12,-12459,70,93.25,69.25,1,4,0,42,Loss
+248,Team Elite,Team Falcon,Miramar,League,19,17,3,-61,37,67.92,86.98,2,3,4,38,Loss
+249,Team Dragon,Team Hunter,Erangel,Ranked,33,18,11,-11317,85,89.03,57.82,5,0,8,37,Loss
+250,Team Dragon,Team Alpha,Miramar,League,17,3,14,-11687,66,85.3,66.78,3,2,8,37,Loss
+251,Team Dragon,Team Galaxy,Erangel,Tournament,33,21,14,-3362,80,80.24,70.04,1,4,4,17,Loss
+252,Team Cyber,Team Elite,Sanhok,Ranked,16,22,7,-1452,54,83.02,77.07,5,0,0,42,Win
+253,Team Alpha,Team Elite,Mirage,Tournament,18,21,9,3047,74,93.51,91.62,3,2,4,25,Win
+254,Team Nova,Team Galaxy,Mirage,Tournament,8,2,11,3525,58,84.43,75.71,2,3,4,52,Win
+255,Team Elite,Team Dragon,Mirage,Tournament,11,18,7,-11280,96,72.38,68.74,1,4,0,53,Loss
+256,Team Galaxy,Team Hunter,Dust II,League,26,25,1,-2554,63,86.24,64.56,4,1,10,42,Win
+257,Team Cyber,Team Nova,Miramar,Tournament,13,11,3,15853,36,86.86,86.18,4,1,2,55,Win
+258,Team Dragon,Team Falcon,Miramar,League,28,12,11,2076,94,67.64,91.6,3,2,0,52,Win
+259,Team Dragon,Team Nova,Nuke,Tournament,9,23,12,4553,72,57.32,91.73,1,4,3,33,Win
+260,Team Cyber,Team Blaze,Miramar,Tournament,33,12,5,5539,27,55.2,66.76,1,4,9,22,Win
+261,Team Galaxy,Team Hunter,Vikendi,League,27,15,15,10121,20,56.62,63.57,2,3,0,32,Win
+262,Team Alpha,Team Elite,Mirage,Ranked,16,24,11,5453,36,59.42,76.64,2,3,2,16,Win
+263,Team Hunter,Team Nova,Vikendi,Ranked,35,12,13,-6232,63,97.83,76.08,1,4,2,37,Loss
+264,Team Cyber,Team Elite,Erangel,League,3,20,5,-6929,66,85.58,89.06,3,2,10,28,Loss
+265,Team Alpha,Team Cyber,Erangel,League,3,3,3,12313,76,71.35,78.53,3,2,2,25,Win
+266,Team Blaze,Team Nova,Vikendi,Tournament,19,21,4,12448,33,77.0,81.56,2,3,1,18,Win
+267,Team Elite,Team Nova,Erangel,Ranked,14,13,13,4356,40,56.69,76.34,1,4,7,33,Win
+268,Team Blaze,Team Cyber,Erangel,Tournament,33,6,2,-10082,32,93.91,82.71,3,2,4,28,Loss
+269,Team Cyber,Team Alpha,Sanhok,League,20,13,10,12918,34,59.08,87.6,0,5,0,20,Win
+270,Team Hunter,Team Elite,Sanhok,Tournament,7,13,10,-3016,34,72.23,96.38,2,3,6,42,Loss
+271,Team Alpha,Team Dragon,Sanhok,League,8,15,15,13715,43,81.29,88.5,4,1,0,55,Win
+272,Team Hunter,Team Blaze,Vikendi,League,28,16,1,-10850,53,83.16,55.53,5,0,8,48,Loss
+273,Team Falcon,Team Nova,Erangel,League,35,24,3,13367,51,75.72,83.54,5,0,6,21,Win
+274,Team Cyber,Team Nova,Inferno,Ranked,32,17,5,-10094,82,68.79,69.23,2,3,0,44,Loss
+275,Team Dragon,Team Blaze,Inferno,Ranked,31,16,14,-9232,83,74.22,60.1,3,2,10,13,Loss
+276,Team Inferno,Team Nova,Nuke,Tournament,2,4,9,-1444,78,95.87,70.62,0,5,3,41,Win
+277,Team Falcon,Team Inferno,Miramar,Tournament,9,5,7,-14857,63,70.27,82.25,2,3,8,45,Loss
+278,Team Cyber,Team Inferno,Dust II,Ranked,10,24,13,-7991,52,81.27,63.06,3,2,3,41,Loss
+279,Team Galaxy,Team Alpha,Sanhok,Tournament,9,16,14,-6177,83,55.19,86.66,4,1,6,49,Loss
+280,Team Cyber,Team Dragon,Mirage,Tournament,8,14,10,10209,73,97.12,94.38,1,4,4,37,Win
+281,Team Cyber,Team Dragon,Sanhok,Tournament,28,21,9,5572,90,82.2,63.64,4,1,4,55,Win
+282,Team Cyber,Team Nova,Mirage,League,22,24,3,8084,91,75.66,79.54,5,0,6,55,Win
+283,Team Galaxy,Team Alpha,Mirage,League,35,5,0,9960,38,57.28,57.43,2,3,2,30,Win
+284,Team Alpha,Team Falcon,Inferno,League,15,19,1,8506,77,59.41,92.33,5,0,8,26,Win
+285,Team Elite,Team Alpha,Dust II,Ranked,26,14,13,5490,90,57.31,86.98,1,4,9,40,Win
+286,Team Inferno,Team Dragon,Inferno,Ranked,14,11,14,-3373,29,63.04,62.47,4,1,1,36,Loss
+287,Team Elite,Team Cyber,Erangel,League,12,20,8,-14631,62,75.05,95.31,0,5,2,32,Loss
+288,Team Nova,Team Elite,Inferno,Ranked,33,20,11,-10224,60,77.59,96.15,4,1,1,44,Loss
+289,Team Galaxy,Team Blaze,Erangel,League,24,9,6,6750,62,70.51,64.39,4,1,8,42,Win
+290,Team Falcon,Team Inferno,Mirage,League,17,22,7,-12387,61,71.4,89.24,0,5,6,28,Loss
+291,Team Inferno,Team Falcon,Sanhok,Ranked,34,18,14,16903,25,67.75,83.02,2,3,8,17,Win
+292,Team Inferno,Team Nova,Inferno,League,2,22,2,-1187,100,88.26,92.19,3,2,1,25,Loss
+293,Team Blaze,Team Dragon,Vikendi,League,3,16,10,-12518,31,58.15,62.65,2,3,8,16,Loss
+294,Team Galaxy,Team Hunter,Miramar,League,30,22,12,13378,60,55.73,83.95,4,1,0,53,Win
+295,Team Nova,Team Alpha,Erangel,League,6,13,3,3994,58,81.08,67.11,3,2,6,37,Win
+296,Team Inferno,Team Dragon,Sanhok,Ranked,10,25,12,4331,38,67.82,93.14,5,0,10,35,Win
+297,Team Alpha,Team Hunter,Vikendi,Ranked,7,11,6,7534,47,72.74,82.78,4,1,2,22,Win
+298,Team Elite,Team Dragon,Nuke,League,9,7,1,15229,90,58.15,83.88,2,3,1,24,Win
+299,Team Falcon,Team Cyber,Sanhok,League,17,5,9,-10426,44,68.66,74.38,4,1,10,31,Loss
+300,Team Falcon,Team Galaxy,Sanhok,Tournament,29,7,0,5526,51,88.78,85.62,5,0,6,29,Win
+301,Team Falcon,Team Inferno,Vikendi,Ranked,31,16,11,5019,82,78.72,62.56,4,1,1,29,Win
+302,Team Blaze,Team Cyber,Sanhok,Tournament,3,18,0,11550,95,64.15,56.58,2,3,8,46,Win
+303,Team Dragon,Team Falcon,Sanhok,League,10,16,2,11003,66,76.59,83.5,4,1,10,22,Win
+304,Team Cyber,Team Dragon,Dust II,Ranked,32,13,1,-660,82,64.97,66.37,1,4,0,54,Loss
+305,Team Hunter,Team Alpha,Sanhok,League,4,22,10,-8236,86,82.24,66.76,5,0,4,49,Loss
+306,Team Galaxy,Team Falcon,Erangel,League,6,18,8,9663,48,77.2,70.17,2,3,7,42,Win
+307,Team Cyber,Team Inferno,Inferno,Ranked,12,9,2,3403,47,61.46,61.77,4,1,1,54,Win
+308,Team Blaze,Team Inferno,Erangel,Ranked,32,17,6,-4433,72,55.97,56.86,4,1,9,22,Loss
+309,Team Cyber,Team Alpha,Vikendi,Ranked,12,10,5,11571,96,96.68,82.42,5,0,10,30,Win
+310,Team Hunter,Team Inferno,Dust II,Ranked,12,9,13,-5648,94,90.28,62.82,5,0,8,28,Win
+311,Team Nova,Team Blaze,Miramar,Ranked,16,14,12,-6336,33,55.71,77.48,4,1,10,38,Loss
+312,Team Nova,Team Alpha,Inferno,Tournament,34,5,2,16604,36,93.79,78.19,0,5,10,53,Win
+313,Team Alpha,Team Nova,Sanhok,Tournament,29,9,15,9984,64,80.33,86.88,5,0,9,18,Win
+314,Team Dragon,Team Blaze,Erangel,Ranked,20,21,13,1895,44,55.24,86.98,0,5,9,45,Loss
+315,Team Dragon,Team Galaxy,Mirage,Tournament,28,13,3,-4857,74,83.02,65.91,4,1,6,48,Loss
+316,Team Galaxy,Team Dragon,Inferno,League,28,19,15,-3288,67,79.04,75.8,2,3,9,34,Loss
+317,Team Blaze,Team Elite,Erangel,League,30,24,5,-8429,47,76.86,88.8,4,1,9,55,Loss
+318,Team Alpha,Team Cyber,Mirage,Tournament,11,17,13,-9224,28,66.31,70.95,4,1,0,36,Loss
+319,Team Nova,Team Alpha,Vikendi,Ranked,13,22,15,13768,21,63.67,83.25,4,1,4,24,Win
+320,Team Alpha,Team Galaxy,Vikendi,Tournament,17,22,0,-4682,31,97.86,88.53,2,3,10,37,Loss
+321,Team Blaze,Team Cyber,Mirage,Ranked,20,25,11,7772,55,64.73,96.41,3,2,6,48,Win
+322,Team Inferno,Team Blaze,Nuke,League,6,18,9,7280,34,89.53,96.14,4,1,9,28,Win
+323,Team Nova,Team Hunter,Vikendi,League,17,12,14,15193,95,92.07,75.72,2,3,1,36,Win
+324,Team Dragon,Team Galaxy,Sanhok,League,28,13,0,2258,51,67.35,72.15,5,0,5,16,Win
+325,Team Falcon,Team Dragon,Vikendi,Ranked,19,7,6,17702,45,65.1,65.41,2,3,3,26,Win
+326,Team Falcon,Team Cyber,Dust II,League,8,5,2,17287,98,55.28,91.85,0,5,7,35,Win
+327,Team Nova,Team Elite,Erangel,League,33,7,8,11075,48,87.26,60.51,4,1,6,42,Win
+328,Team Galaxy,Team Cyber,Mirage,Tournament,31,5,14,5686,21,55.51,64.06,4,1,1,32,Win
+329,Team Elite,Team Dragon,Mirage,Tournament,19,17,10,8981,43,76.45,64.05,5,0,5,35,Win
+330,Team Nova,Team Cyber,Sanhok,Ranked,16,5,8,453,91,73.59,71.38,1,4,2,42,Win
+331,Team Cyber,Team Nova,Mirage,Ranked,22,17,9,1447,91,91.92,57.05,0,5,2,15,Win
+332,Team Blaze,Team Inferno,Dust II,Ranked,23,10,11,8613,91,78.97,89.83,2,3,0,38,Win
+333,Team Nova,Team Dragon,Nuke,Tournament,13,11,11,6305,85,75.96,86.67,0,5,6,51,Win
+334,Team Cyber,Team Dragon,Mirage,League,23,15,12,-10325,30,61.97,64.81,2,3,10,30,Loss
+335,Team Galaxy,Team Elite,Miramar,Tournament,30,13,14,12131,41,62.91,55.99,5,0,3,54,Win
+336,Team Galaxy,Team Blaze,Sanhok,League,8,4,15,-11473,23,88.15,77.53,0,5,1,28,Loss
+337,Team Galaxy,Team Elite,Dust II,League,16,9,9,14042,100,60.44,77.65,1,4,0,14,Win
+338,Team Falcon,Team Inferno,Inferno,Tournament,31,19,8,14153,37,96.69,85.0,1,4,9,50,Win
+339,Team Inferno,Team Elite,Sanhok,Ranked,24,17,7,-9131,76,68.24,72.72,1,4,4,12,Loss
+340,Team Hunter,Team Nova,Dust II,Ranked,2,24,15,16265,58,55.39,73.51,2,3,9,26,Win
+341,Team Inferno,Team Galaxy,Mirage,League,27,9,5,10540,68,64.49,58.41,5,0,3,45,Win
+342,Team Inferno,Team Elite,Nuke,League,28,8,2,-3046,37,67.45,82.39,4,1,7,29,Loss
+343,Team Alpha,Team Dragon,Sanhok,Ranked,5,19,0,-2815,33,67.13,60.38,3,2,0,26,Loss
+344,Team Dragon,Team Galaxy,Inferno,Tournament,28,11,15,9339,79,84.97,56.36,0,5,2,15,Win
+345,Team Hunter,Team Cyber,Erangel,League,14,10,12,-14174,35,96.91,85.73,3,2,7,27,Loss
+346,Team Blaze,Team Nova,Mirage,Ranked,15,17,12,5454,61,61.82,86.31,5,0,8,45,Win
+347,Team Elite,Team Dragon,Inferno,Ranked,25,3,6,-7600,50,82.22,68.95,1,4,4,49,Loss
+348,Team Alpha,Team Blaze,Erangel,League,32,24,4,9339,31,65.7,76.5,5,0,9,33,Win
+349,Team Cyber,Team Nova,Inferno,Ranked,8,6,15,248,60,97.21,88.91,2,3,7,24,Win
+350,Team Cyber,Team Falcon,Nuke,Tournament,4,17,14,4314,89,84.97,63.16,1,4,8,34,Win
+351,Team Nova,Team Inferno,Inferno,League,12,4,4,14450,57,90.23,78.29,3,2,0,52,Win
+352,Team Alpha,Team Galaxy,Dust II,Tournament,17,12,2,10394,44,77.54,76.39,4,1,2,51,Win
+353,Team Falcon,Team Blaze,Erangel,Ranked,8,18,2,-12132,36,62.68,56.34,0,5,7,24,Loss
+354,Team Galaxy,Team Inferno,Miramar,Tournament,35,21,8,-11784,66,64.49,85.87,0,5,3,53,Loss
+355,Team Alpha,Team Galaxy,Miramar,League,28,13,1,2420,87,56.75,58.03,2,3,1,25,Win
+356,Team Dragon,Team Nova,Miramar,League,26,8,6,1302,92,81.89,62.69,5,0,8,38,Win
+357,Team Nova,Team Falcon,Nuke,Ranked,31,24,13,-8178,41,89.08,78.65,4,1,5,54,Loss
+358,Team Falcon,Team Nova,Mirage,League,22,13,13,13219,61,81.16,79.22,1,4,6,47,Win
+359,Team Hunter,Team Inferno,Vikendi,Ranked,27,2,1,3643,96,55.7,60.81,2,3,0,31,Win
+360,Team Alpha,Team Falcon,Vikendi,Ranked,34,19,4,-8821,24,74.8,61.71,2,3,5,49,Loss
+361,Team Elite,Team Blaze,Mirage,League,27,20,6,-9941,61,89.09,62.43,5,0,9,18,Loss
+362,Team Nova,Team Galaxy,Inferno,Ranked,7,3,10,7801,75,72.91,92.32,1,4,10,50,Win
+363,Team Inferno,Team Alpha,Miramar,League,22,19,4,6419,84,85.0,61.59,5,0,6,40,Win
+364,Team Elite,Team Hunter,Inferno,Tournament,11,6,10,-9591,80,79.57,57.12,3,2,4,17,Loss
+365,Team Cyber,Team Dragon,Miramar,Ranked,32,19,6,16972,70,83.05,63.43,4,1,8,27,Win
+366,Team Galaxy,Team Falcon,Sanhok,Tournament,7,5,13,12757,66,69.98,68.79,4,1,10,13,Win
+367,Team Nova,Team Hunter,Erangel,League,11,16,1,301,45,84.47,61.71,5,0,1,19,Win
+368,Team Nova,Team Cyber,Mirage,Ranked,20,2,10,-7708,59,74.35,55.98,1,4,8,25,Loss
+369,Team Nova,Team Cyber,Nuke,Ranked,3,14,1,1741,41,57.58,63.63,5,0,9,29,Win
+370,Team Alpha,Team Cyber,Miramar,Tournament,26,23,8,8607,33,55.82,92.3,5,0,6,26,Win
+371,Team Hunter,Team Nova,Dust II,Tournament,7,7,6,17810,78,79.11,85.64,0,5,3,45,Win
+372,Team Cyber,Team Alpha,Mirage,League,24,23,11,8290,100,68.0,97.83,4,1,4,15,Win
+373,Team Alpha,Team Nova,Vikendi,League,19,9,4,7399,70,83.25,58.78,3,2,8,55,Win
+374,Team Nova,Team Cyber,Sanhok,Ranked,29,11,10,14436,89,60.67,83.06,4,1,8,55,Win
+375,Team Inferno,Team Cyber,Erangel,Ranked,29,6,5,5807,28,78.97,95.79,0,5,2,32,Win
+376,Team Galaxy,Team Hunter,Vikendi,League,21,16,8,-5042,44,59.59,62.94,4,1,9,29,Loss
+377,Team Dragon,Team Alpha,Nuke,Tournament,24,4,15,-6213,84,91.38,75.16,5,0,5,23,Loss
+378,Team Cyber,Team Elite,Sanhok,Ranked,16,3,13,-14017,54,95.86,64.57,5,0,3,25,Loss
+379,Team Hunter,Team Inferno,Erangel,League,22,16,7,13020,71,88.38,81.14,3,2,5,37,Win
+380,Team Hunter,Team Inferno,Inferno,Tournament,4,9,12,-12428,91,71.66,87.9,0,5,3,30,Loss
+381,Team Elite,Team Inferno,Miramar,League,12,15,9,-11426,86,93.86,74.93,5,0,7,17,Loss
+382,Team Nova,Team Inferno,Mirage,Ranked,10,14,13,6198,77,56.07,74.51,5,0,3,41,Win
+383,Team Cyber,Team Blaze,Inferno,Tournament,7,5,14,8785,30,77.52,71.52,4,1,9,22,Win
+384,Team Cyber,Team Galaxy,Miramar,Ranked,11,7,4,-3278,26,73.04,68.31,3,2,4,52,Loss
+385,Team Dragon,Team Alpha,Nuke,League,18,2,14,17612,83,78.37,55.25,3,2,3,25,Win
+386,Team Hunter,Team Blaze,Mirage,Ranked,2,9,8,-1393,26,62.95,57.37,2,3,0,21,Loss
+387,Team Blaze,Team Alpha,Nuke,Ranked,8,15,5,-4427,56,81.28,84.74,4,1,9,47,Loss
+388,Team Falcon,Team Alpha,Sanhok,Tournament,7,11,10,9154,68,90.27,87.61,4,1,1,30,Win
+389,Team Elite,Team Galaxy,Mirage,Tournament,35,15,6,-1300,98,57.5,79.57,5,0,8,17,Loss
+390,Team Falcon,Team Elite,Vikendi,Ranked,35,20,11,-6500,98,79.19,77.35,5,0,7,43,Loss
+391,Team Dragon,Team Alpha,Vikendi,Tournament,9,2,14,-7272,46,89.38,97.96,3,2,0,33,Loss
+392,Team Dragon,Team Falcon,Inferno,Tournament,18,4,9,4679,84,78.65,87.98,0,5,10,33,Win
+393,Team Nova,Team Alpha,Nuke,Ranked,13,8,10,7147,81,94.4,89.28,5,0,2,42,Win
+394,Team Inferno,Team Falcon,Dust II,League,31,15,1,4617,92,86.17,68.57,4,1,0,25,Win
+395,Team Falcon,Team Blaze,Miramar,Ranked,11,10,0,7226,68,81.94,91.22,4,1,9,36,Win
+396,Team Elite,Team Galaxy,Sanhok,Tournament,4,10,13,-9312,83,92.71,70.98,2,3,3,45,Loss
+397,Team Alpha,Team Elite,Sanhok,Tournament,7,16,0,16631,84,61.63,69.62,3,2,8,31,Win
+398,Team Blaze,Team Nova,Miramar,League,10,8,1,15105,69,85.69,77.46,0,5,4,14,Win
+399,Team Alpha,Team Cyber,Mirage,Ranked,35,23,9,-13527,93,87.62,82.47,1,4,5,24,Loss
+400,Team Falcon,Team Inferno,Dust II,Ranked,9,10,4,-4679,55,59.92,96.21,4,1,8,18,Loss
+401,Team Elite,Team Cyber,Erangel,Ranked,20,20,7,-3776,29,68.39,93.37,4,1,7,15,Loss
+402,Team Alpha,Team Cyber,Dust II,League,26,3,2,12948,70,62.7,80.63,4,1,10,40,Win
+403,Team Dragon,Team Nova,Vikendi,Ranked,7,16,4,-8911,79,59.18,68.35,5,0,7,42,Loss
+404,Team Nova,Team Elite,Nuke,Tournament,25,14,5,6648,61,74.49,56.3,3,2,1,34,Win
+405,Team Elite,Team Galaxy,Inferno,Tournament,10,18,3,11587,33,69.01,82.93,2,3,8,41,Win
+406,Team Dragon,Team Nova,Vikendi,Tournament,12,17,12,-10671,63,63.95,84.84,3,2,6,48,Loss
+407,Team Blaze,Team Inferno,Miramar,League,9,20,14,6323,91,59.2,74.14,2,3,6,16,Win
+408,Team Nova,Team Galaxy,Sanhok,League,22,17,1,-9067,47,90.13,93.15,5,0,0,21,Loss
+409,Team Elite,Team Hunter,Erangel,Ranked,30,8,6,5748,58,79.52,94.27,2,3,6,34,Win
+410,Team Inferno,Team Galaxy,Erangel,Tournament,10,11,1,9197,90,96.62,55.04,4,1,5,19,Win
+411,Team Nova,Team Galaxy,Inferno,Ranked,22,24,12,11609,68,73.71,64.08,1,4,7,20,Win
+412,Team Falcon,Team Hunter,Sanhok,Tournament,11,11,4,-6200,21,58.09,55.68,5,0,7,54,Loss
+413,Team Galaxy,Team Inferno,Inferno,Ranked,29,21,5,14779,85,73.24,90.26,3,2,5,26,Win
+414,Team Nova,Team Hunter,Dust II,League,17,24,8,11924,89,79.78,56.44,0,5,9,42,Win
+415,Team Hunter,Team Blaze,Miramar,League,11,25,8,15470,86,58.36,93.27,0,5,3,42,Win
+416,Team Inferno,Team Elite,Mirage,Tournament,5,12,0,15727,78,77.04,75.18,5,0,5,38,Win
+417,Team Alpha,Team Falcon,Nuke,Tournament,18,3,15,-3920,93,57.22,97.59,5,0,9,13,Loss
+418,Team Inferno,Team Blaze,Sanhok,League,19,10,4,3413,55,91.89,55.61,0,5,9,23,Win
+419,Team Falcon,Team Cyber,Sanhok,League,18,24,7,16779,43,89.37,92.07,2,3,1,21,Win
+420,Team Galaxy,Team Hunter,Erangel,Ranked,17,23,14,-4037,46,79.84,91.2,0,5,10,28,Loss
+421,Team Galaxy,Team Inferno,Inferno,Tournament,21,17,7,9890,69,75.41,61.24,3,2,0,30,Win
+422,Team Inferno,Team Alpha,Mirage,Ranked,8,19,11,13297,98,94.48,91.91,2,3,4,29,Win
+423,Team Galaxy,Team Inferno,Miramar,Tournament,17,25,6,7112,43,68.47,55.45,0,5,1,12,Win
+424,Team Hunter,Team Falcon,Miramar,Ranked,16,25,9,1508,44,56.46,81.63,0,5,9,54,Loss
+425,Team Blaze,Team Cyber,Inferno,Tournament,10,14,5,-7736,43,65.89,75.08,0,5,10,41,Loss
+426,Team Falcon,Team Elite,Miramar,Tournament,12,4,8,-10912,68,71.71,97.83,2,3,4,23,Loss
+427,Team Dragon,Team Hunter,Mirage,Tournament,13,22,15,-7894,38,78.25,73.54,4,1,10,18,Loss
+428,Team Blaze,Team Cyber,Sanhok,Tournament,18,16,0,17617,39,83.07,55.04,0,5,10,36,Win
+429,Team Galaxy,Team Alpha,Inferno,Ranked,34,24,15,16335,75,72.37,86.29,0,5,8,26,Win
+430,Team Hunter,Team Blaze,Miramar,Tournament,24,12,9,11254,27,82.19,96.23,0,5,5,46,Win
+431,Team Elite,Team Dragon,Miramar,Tournament,13,19,1,10176,44,67.85,71.77,0,5,10,34,Win
+432,Team Hunter,Team Dragon,Nuke,Tournament,10,3,6,-13338,95,65.25,71.72,4,1,10,31,Loss
+433,Team Alpha,Team Blaze,Sanhok,League,23,3,10,-12195,71,60.08,89.71,5,0,8,41,Loss
+434,Team Dragon,Team Blaze,Erangel,Ranked,4,25,4,17040,22,75.26,94.47,0,5,3,53,Win
+435,Team Alpha,Team Falcon,Inferno,Ranked,8,16,5,-10809,33,59.91,80.58,4,1,3,16,Loss
+436,Team Galaxy,Team Falcon,Sanhok,Tournament,9,23,4,6075,47,87.86,80.5,2,3,1,19,Win
+437,Team Cyber,Team Galaxy,Nuke,Ranked,12,16,7,-12333,37,59.3,91.44,4,1,6,22,Loss
+438,Team Alpha,Team Dragon,Inferno,Tournament,7,24,9,12277,80,84.77,63.86,5,0,4,45,Win
+439,Team Cyber,Team Alpha,Vikendi,Ranked,13,24,15,-9232,100,90.54,67.95,3,2,0,47,Loss
+440,Team Inferno,Team Blaze,Nuke,League,25,19,7,15422,100,83.35,66.89,1,4,1,21,Win
+441,Team Cyber,Team Alpha,Erangel,League,5,22,11,3681,46,73.69,69.37,3,2,0,18,Win
+442,Team Cyber,Team Dragon,Dust II,League,3,17,3,-10357,50,86.02,80.49,2,3,6,24,Loss
+443,Team Blaze,Team Galaxy,Inferno,Ranked,16,5,7,12039,45,71.15,64.49,3,2,9,43,Win
+444,Team Nova,Team Hunter,Erangel,Ranked,13,14,11,-6061,78,85.95,82.18,2,3,3,33,Loss
+445,Team Alpha,Team Falcon,Sanhok,League,10,5,14,15053,73,62.36,69.77,2,3,9,22,Win
+446,Team Inferno,Team Dragon,Dust II,Ranked,7,15,15,-816,95,75.36,74.9,0,5,6,27,Loss
+447,Team Dragon,Team Cyber,Miramar,Tournament,2,15,1,-12375,80,86.54,76.68,3,2,8,37,Loss
+448,Team Dragon,Team Blaze,Mirage,League,2,24,13,-713,36,70.41,65.28,0,5,0,42,Loss
+449,Team Hunter,Team Alpha,Miramar,League,31,16,4,11565,43,88.96,70.93,3,2,10,12,Win
+450,Team Falcon,Team Nova,Erangel,Tournament,4,11,13,2680,98,78.32,89.16,5,0,1,51,Win
+451,Team Falcon,Team Alpha,Vikendi,League,9,14,11,15497,99,56.76,70.76,5,0,8,16,Win
+452,Team Falcon,Team Dragon,Erangel,Tournament,9,22,15,-1251,48,68.78,93.61,4,1,10,39,Loss
+453,Team Falcon,Team Inferno,Miramar,Tournament,33,18,3,15812,88,84.17,77.91,2,3,7,51,Win
+454,Team Hunter,Team Blaze,Vikendi,Ranked,7,14,5,3898,29,59.7,66.87,5,0,2,43,Win
+455,Team Alpha,Team Falcon,Erangel,Ranked,28,23,4,16057,64,73.07,86.72,0,5,4,24,Win
+456,Team Dragon,Team Nova,Sanhok,Tournament,23,15,10,6384,82,80.51,84.97,4,1,7,41,Win
+457,Team Elite,Team Cyber,Sanhok,Ranked,18,9,15,9372,56,88.1,57.03,2,3,4,41,Win
+458,Team Elite,Team Cyber,Dust II,Tournament,13,24,4,-4433,50,60.03,97.73,4,1,2,40,Loss
+459,Team Inferno,Team Alpha,Nuke,Tournament,22,13,4,9439,77,78.21,61.99,2,3,1,13,Win
+460,Team Hunter,Team Falcon,Nuke,League,11,2,10,4369,80,93.53,96.69,4,1,10,21,Win
+461,Team Blaze,Team Inferno,Erangel,Tournament,4,6,3,5190,23,72.27,91.16,3,2,5,17,Win
+462,Team Dragon,Team Nova,Vikendi,Tournament,16,10,6,-13523,30,78.15,74.15,5,0,1,44,Loss
+463,Team Nova,Team Inferno,Dust II,Tournament,5,23,11,11054,38,85.79,73.39,3,2,5,12,Win
+464,Team Hunter,Team Nova,Miramar,League,7,8,14,12237,76,67.41,89.64,3,2,6,20,Win
+465,Team Elite,Team Inferno,Nuke,League,35,12,2,9626,31,55.28,82.47,2,3,6,23,Win
+466,Team Cyber,Team Elite,Nuke,League,13,14,9,17151,25,90.38,67.99,4,1,4,43,Win
+467,Team Alpha,Team Dragon,Miramar,Ranked,18,11,15,-6862,56,72.94,76.15,5,0,10,27,Loss
+468,Team Hunter,Team Blaze,Erangel,League,25,20,15,13578,53,82.0,75.47,5,0,1,35,Win
+469,Team Cyber,Team Alpha,Mirage,Ranked,11,12,14,-6121,65,62.02,66.72,3,2,10,34,Loss
+470,Team Blaze,Team Nova,Dust II,Tournament,14,22,5,-8807,96,87.36,78.38,2,3,10,31,Loss
+471,Team Nova,Team Falcon,Vikendi,Ranked,11,2,4,3442,67,88.49,72.72,1,4,1,25,Win
+472,Team Inferno,Team Nova,Dust II,League,9,15,14,-9994,34,90.21,94.71,3,2,5,31,Loss
+473,Team Hunter,Team Nova,Vikendi,Ranked,23,7,9,-13116,35,64.56,91.84,1,4,3,31,Loss
+474,Team Blaze,Team Hunter,Nuke,Ranked,9,4,0,16736,75,56.83,59.64,5,0,8,49,Win
+475,Team Elite,Team Alpha,Erangel,Tournament,6,11,0,-8676,35,94.56,63.83,1,4,2,54,Loss
+476,Team Elite,Team Galaxy,Sanhok,Tournament,24,7,7,-10522,32,90.24,87.82,4,1,3,24,Loss
+477,Team Inferno,Team Alpha,Inferno,Tournament,8,8,15,9016,95,62.96,83.96,0,5,2,34,Win
+478,Team Dragon,Team Hunter,Erangel,League,9,12,3,15533,34,77.35,76.32,2,3,4,47,Win
+479,Team Hunter,Team Blaze,Dust II,Tournament,26,11,14,5447,76,64.71,72.51,3,2,3,16,Win
+480,Team Hunter,Team Blaze,Vikendi,Tournament,27,16,2,-7187,38,71.98,84.89,0,5,2,16,Loss
+481,Team Nova,Team Galaxy,Dust II,Tournament,9,9,13,17709,55,87.89,87.94,4,1,4,53,Win
+482,Team Nova,Team Galaxy,Erangel,Ranked,33,18,8,-5342,78,59.65,65.78,3,2,3,52,Loss
+483,Team Alpha,Team Cyber,Miramar,Ranked,33,23,0,-3263,68,81.0,69.06,2,3,9,51,Loss
+484,Team Inferno,Team Hunter,Inferno,Ranked,31,8,9,17630,82,76.71,78.32,4,1,8,13,Win
+485,Team Blaze,Team Hunter,Inferno,Tournament,30,12,12,14003,78,56.55,62.61,5,0,4,22,Win
+486,Team Galaxy,Team Inferno,Inferno,Tournament,9,20,15,15790,80,79.18,61.72,0,5,6,28,Win
+487,Team Falcon,Team Elite,Dust II,League,22,3,0,-12044,36,90.99,70.0,5,0,9,13,Loss
+488,Team Galaxy,Team Falcon,Miramar,Tournament,24,15,11,-11301,51,65.65,82.87,4,1,1,16,Loss
+489,Team Alpha,Team Nova,Dust II,Ranked,22,3,14,12687,92,77.13,73.11,0,5,7,49,Win
+490,Team Galaxy,Team Falcon,Mirage,League,8,17,3,-1506,63,76.36,89.89,5,0,5,22,Loss
+491,Team Galaxy,Team Dragon,Miramar,League,33,22,2,-971,56,66.4,67.78,4,1,6,26,Win
+492,Team Nova,Team Blaze,Inferno,Tournament,23,10,2,16147,74,64.02,89.21,5,0,4,44,Win
+493,Team Falcon,Team Dragon,Nuke,League,28,14,8,14702,90,62.77,55.8,5,0,8,23,Win
+494,Team Hunter,Team Elite,Inferno,Tournament,29,20,1,-1851,66,74.89,65.34,5,0,10,31,Win
+495,Team Blaze,Team Elite,Erangel,Ranked,28,10,9,-4476,52,84.53,65.15,1,4,1,21,Loss
+496,Team Elite,Team Inferno,Sanhok,League,33,19,13,12657,24,63.69,66.73,0,5,4,29,Win
+497,Team Alpha,Team Inferno,Miramar,League,3,3,2,5572,97,67.81,57.73,3,2,5,54,Win
+498,Team Cyber,Team Elite,Inferno,League,9,20,3,1502,83,93.04,65.24,0,5,5,33,Win
+499,Team Dragon,Team Hunter,Dust II,Tournament,15,6,3,-3522,47,96.71,73.9,2,3,9,15,Loss
+500,Team Blaze,Team Galaxy,Erangel,League,29,17,7,3201,38,70.61,85.77,2,3,0,53,Win
+501,Team Alpha,Team Elite,Erangel,Tournament,18,19,12,5268,66,93.84,84.47,4,1,3,40,Win
+502,Team Galaxy,Team Elite,Inferno,League,21,4,7,4491,46,91.95,61.89,3,2,10,32,Win
+503,Team Elite,Team Blaze,Dust II,Ranked,33,17,13,6805,74,92.7,90.27,1,4,4,44,Win
+504,Team Inferno,Team Falcon,Mirage,Ranked,31,24,0,-11586,43,82.1,89.01,1,4,0,37,Loss
+505,Team Blaze,Team Cyber,Dust II,League,12,9,4,11890,60,74.41,92.56,1,4,4,23,Win
+506,Team Dragon,Team Blaze,Vikendi,League,28,13,5,10788,68,95.62,93.03,1,4,0,13,Win
+507,Team Hunter,Team Dragon,Miramar,Ranked,18,24,5,-11738,71,81.57,80.82,1,4,1,35,Loss
+508,Team Inferno,Team Galaxy,Sanhok,Tournament,31,23,15,-7234,48,85.68,63.19,2,3,4,43,Loss
+509,Team Dragon,Team Elite,Nuke,League,20,25,6,12415,43,72.57,61.28,2,3,4,27,Win
+510,Team Falcon,Team Inferno,Mirage,League,7,2,15,-6271,61,96.9,72.09,1,4,6,39,Loss
+511,Team Inferno,Team Alpha,Inferno,Tournament,5,12,7,15863,65,97.86,95.39,4,1,0,12,Win
+512,Team Galaxy,Team Falcon,Dust II,Ranked,10,19,1,-3245,53,62.3,76.19,2,3,7,20,Loss
+513,Team Galaxy,Team Cyber,Mirage,Tournament,18,5,10,-12106,36,76.47,96.85,2,3,5,39,Loss
+514,Team Elite,Team Nova,Vikendi,Ranked,22,15,5,5679,82,87.84,61.5,5,0,10,40,Win
+515,Team Dragon,Team Cyber,Nuke,Tournament,4,17,8,-4282,79,73.77,97.79,3,2,0,40,Loss
+516,Team Blaze,Team Dragon,Vikendi,League,9,13,2,-1649,56,62.77,62.24,4,1,4,48,Loss
+517,Team Alpha,Team Nova,Miramar,League,13,15,2,1132,83,84.11,93.16,0,5,4,55,Win
+518,Team Nova,Team Blaze,Erangel,League,22,6,0,-9688,78,90.72,83.36,3,2,10,29,Loss
+519,Team Alpha,Team Inferno,Inferno,League,22,25,4,-1148,26,89.47,67.17,0,5,1,47,Loss
+520,Team Elite,Team Cyber,Miramar,Ranked,17,14,2,-13656,46,62.01,88.52,2,3,10,53,Loss
+521,Team Galaxy,Team Elite,Inferno,League,10,13,3,9081,85,63.59,74.15,3,2,7,29,Win
+522,Team Galaxy,Team Falcon,Sanhok,League,13,15,13,-8909,25,77.07,96.85,5,0,3,53,Loss
+523,Team Inferno,Team Nova,Vikendi,Tournament,7,11,14,13662,30,94.01,75.54,1,4,2,55,Win
+524,Team Elite,Team Alpha,Miramar,Tournament,6,3,3,12847,72,59.06,83.42,4,1,4,34,Win
+525,Team Alpha,Team Cyber,Nuke,League,31,7,5,10752,25,58.58,92.7,2,3,5,49,Win
+526,Team Hunter,Team Elite,Erangel,League,23,7,6,-2871,30,87.12,80.97,5,0,1,39,Loss
+527,Team Blaze,Team Alpha,Dust II,League,12,22,15,15157,71,92.36,96.53,4,1,7,31,Win
+528,Team Galaxy,Team Elite,Sanhok,Tournament,7,6,4,-14091,44,59.81,55.68,1,4,0,25,Loss
+529,Team Galaxy,Team Nova,Nuke,Tournament,14,4,9,15371,38,75.38,55.94,1,4,2,40,Win
+530,Team Hunter,Team Dragon,Mirage,Tournament,14,11,12,-11663,62,55.34,82.11,5,0,6,38,Loss
+531,Team Galaxy,Team Inferno,Inferno,Tournament,34,20,15,198,27,77.72,73.15,2,3,8,16,Win
+532,Team Blaze,Team Inferno,Vikendi,League,24,16,13,-13637,40,67.38,63.26,2,3,7,26,Loss
+533,Team Falcon,Team Inferno,Miramar,Tournament,10,11,12,12319,66,89.23,89.39,1,4,9,25,Win
+534,Team Cyber,Team Dragon,Erangel,Ranked,14,7,15,-8388,73,95.55,76.23,1,4,3,47,Loss
+535,Team Elite,Team Galaxy,Mirage,Tournament,12,7,1,-10828,63,73.52,81.56,0,5,8,26,Loss
+536,Team Falcon,Team Alpha,Miramar,League,19,6,3,-11696,76,89.36,96.39,0,5,1,51,Loss
+537,Team Alpha,Team Nova,Miramar,League,8,7,3,-1540,66,61.75,67.56,3,2,8,43,Loss
+538,Team Falcon,Team Galaxy,Sanhok,League,10,5,6,13777,73,88.08,55.28,3,2,5,30,Win
+539,Team Falcon,Team Hunter,Dust II,Tournament,25,22,7,-5065,87,73.13,64.81,3,2,6,38,Loss
+540,Team Hunter,Team Cyber,Erangel,Tournament,2,24,2,-9444,63,68.54,97.22,1,4,6,15,Loss
+541,Team Cyber,Team Alpha,Sanhok,Tournament,35,11,13,11345,90,92.56,86.03,2,3,5,12,Win
+542,Team Hunter,Team Dragon,Sanhok,League,30,24,11,11509,45,92.88,58.62,4,1,5,36,Win
+543,Team Inferno,Team Elite,Mirage,Ranked,15,4,9,7328,40,56.01,93.28,4,1,9,28,Win
+544,Team Inferno,Team Blaze,Erangel,League,5,13,8,8230,35,57.05,82.99,0,5,7,31,Win
+545,Team Dragon,Team Nova,Vikendi,Tournament,16,13,9,3647,93,83.91,85.72,4,1,3,18,Win
+546,Team Falcon,Team Inferno,Miramar,Tournament,8,6,13,12004,30,58.97,73.27,1,4,7,25,Win
+547,Team Inferno,Team Galaxy,Sanhok,Ranked,35,14,8,17691,74,97.85,84.63,3,2,6,22,Win
+548,Team Hunter,Team Cyber,Inferno,League,34,18,3,-1065,78,75.35,87.1,4,1,5,19,Loss
+549,Team Falcon,Team Elite,Sanhok,Ranked,4,18,4,-7284,67,68.11,71.1,2,3,7,13,Loss
+550,Team Galaxy,Team Alpha,Mirage,Tournament,21,11,6,-3002,82,55.09,78.54,0,5,0,38,Loss
+551,Team Falcon,Team Hunter,Dust II,League,32,25,4,-5922,84,82.37,87.75,5,0,7,21,Loss
+552,Team Nova,Team Galaxy,Sanhok,Ranked,26,9,12,7216,89,56.97,83.83,3,2,4,53,Win
+553,Team Nova,Team Elite,Erangel,Tournament,9,22,2,-2390,99,78.3,87.58,4,1,8,24,Loss
+554,Team Inferno,Team Cyber,Erangel,League,3,10,6,1075,94,74.1,89.7,4,1,5,37,Win
+555,Team Alpha,Team Galaxy,Mirage,Ranked,29,7,13,-13424,87,68.65,66.06,0,5,1,46,Loss
+556,Team Elite,Team Blaze,Miramar,Tournament,11,11,13,-3912,27,81.42,68.99,0,5,0,31,Loss
+557,Team Galaxy,Team Falcon,Inferno,League,18,14,3,-11601,45,65.3,80.67,1,4,7,44,Loss
+558,Team Elite,Team Alpha,Miramar,League,22,16,13,-10711,81,56.24,82.24,0,5,4,47,Loss
+559,Team Inferno,Team Cyber,Vikendi,Ranked,21,20,13,14227,30,91.39,76.52,1,4,5,46,Win
+560,Team Galaxy,Team Nova,Mirage,Tournament,30,3,0,15451,99,67.44,96.8,0,5,0,42,Win
+561,Team Galaxy,Team Falcon,Miramar,League,15,20,9,-12020,40,86.78,79.21,2,3,1,37,Loss
+562,Team Inferno,Team Elite,Dust II,Tournament,29,8,10,7454,53,97.12,85.43,2,3,3,54,Win
+563,Team Nova,Team Falcon,Nuke,League,3,24,4,-14866,97,75.49,93.76,5,0,2,38,Loss
+564,Team Inferno,Team Blaze,Erangel,Ranked,6,19,0,14175,35,70.18,89.95,4,1,5,36,Win
+565,Team Falcon,Team Dragon,Mirage,League,30,2,7,-13704,55,84.26,85.5,1,4,1,51,Loss
+566,Team Dragon,Team Elite,Inferno,League,33,13,1,3399,83,93.89,85.4,1,4,0,24,Win
+567,Team Elite,Team Nova,Mirage,Ranked,33,7,6,-3497,28,80.29,87.08,1,4,4,48,Loss
+568,Team Alpha,Team Nova,Mirage,Tournament,18,23,14,-14872,74,82.56,95.55,0,5,5,39,Loss
+569,Team Inferno,Team Hunter,Vikendi,Tournament,33,13,1,-285,26,66.95,73.06,3,2,5,12,Loss
+570,Team Nova,Team Alpha,Erangel,Ranked,16,24,13,-10122,51,63.47,69.16,0,5,10,52,Loss
+571,Team Alpha,Team Galaxy,Nuke,Ranked,18,9,3,16036,50,96.23,90.8,2,3,8,27,Win
+572,Team Hunter,Team Blaze,Mirage,Ranked,7,3,1,9732,60,93.27,84.81,1,4,0,40,Win
+573,Team Galaxy,Team Blaze,Erangel,League,8,23,1,-11579,57,91.55,72.27,4,1,6,26,Loss
+574,Team Hunter,Team Galaxy,Miramar,League,8,12,0,14758,86,69.11,63.28,0,5,0,50,Win
+575,Team Dragon,Team Cyber,Sanhok,Ranked,34,10,11,12591,81,86.16,74.12,1,4,2,14,Win
+576,Team Galaxy,Team Nova,Sanhok,League,24,11,4,-5340,80,68.27,69.74,2,3,0,45,Loss
+577,Team Inferno,Team Nova,Nuke,League,5,15,11,-2194,45,82.54,63.65,0,5,5,24,Loss
+578,Team Hunter,Team Falcon,Vikendi,Ranked,23,21,9,12439,62,61.98,74.53,0,5,7,26,Win
+579,Team Hunter,Team Dragon,Dust II,Ranked,17,17,10,9635,46,72.21,90.52,0,5,5,12,Win
+580,Team Blaze,Team Dragon,Sanhok,Tournament,20,16,6,8587,25,96.94,63.56,2,3,2,26,Win
+581,Team Inferno,Team Dragon,Miramar,League,13,8,0,-3461,53,94.16,55.9,5,0,2,36,Win
+582,Team Dragon,Team Falcon,Sanhok,Ranked,31,9,11,9402,41,95.47,97.02,4,1,6,16,Win
+583,Team Cyber,Team Elite,Vikendi,League,14,19,12,9527,60,80.78,97.01,1,4,0,51,Win
+584,Team Elite,Team Cyber,Miramar,Tournament,22,9,1,3354,36,91.61,96.64,3,2,3,17,Win
+585,Team Galaxy,Team Nova,Inferno,Tournament,25,17,14,-3270,61,85.64,77.6,3,2,7,42,Loss
+586,Team Nova,Team Alpha,Mirage,Tournament,15,9,6,14627,50,72.02,68.16,3,2,9,22,Win
+587,Team Cyber,Team Blaze,Inferno,Tournament,20,16,11,84,94,56.77,77.03,2,3,6,40,Loss
+588,Team Hunter,Team Falcon,Miramar,League,19,14,0,-3232,76,65.05,82.75,2,3,1,30,Loss
+589,Team Dragon,Team Blaze,Mirage,League,9,4,11,-12492,89,63.61,63.46,2,3,4,31,Loss
+590,Team Nova,Team Cyber,Nuke,Ranked,18,2,9,3471,64,88.67,72.36,3,2,9,53,Win
+591,Team Cyber,Team Hunter,Dust II,Ranked,16,9,6,16092,49,77.18,88.8,3,2,7,33,Win
+592,Team Galaxy,Team Hunter,Dust II,League,15,16,14,-13028,67,60.97,92.57,2,3,0,43,Loss
+593,Team Galaxy,Team Hunter,Inferno,League,27,24,9,6369,95,56.0,88.77,1,4,2,33,Win
+594,Team Dragon,Team Hunter,Sanhok,Ranked,6,19,12,-2658,80,59.67,79.49,3,2,10,31,Loss
+595,Team Inferno,Team Cyber,Mirage,Ranked,4,24,15,-13242,43,63.56,94.19,3,2,4,25,Loss
+596,Team Blaze,Team Inferno,Inferno,League,5,13,0,-3740,61,91.97,72.67,1,4,1,20,Loss
+597,Team Blaze,Team Hunter,Vikendi,Tournament,15,6,6,5300,75,90.17,83.59,1,4,9,48,Win
+598,Team Hunter,Team Elite,Nuke,League,14,2,4,14211,28,90.46,81.01,1,4,8,33,Win
+599,Team Nova,Team Alpha,Inferno,Ranked,7,11,14,7726,58,71.82,90.41,1,4,6,27,Win
+600,Team Cyber,Team Blaze,Vikendi,League,27,24,1,708,40,66.77,82.01,2,3,10,16,Win
+601,Team Galaxy,Team Nova,Erangel,Ranked,9,13,2,-8105,84,87.96,69.02,3,2,2,28,Loss
+602,Team Blaze,Team Inferno,Nuke,League,26,12,12,-2260,70,56.62,65.78,5,0,2,32,Loss
+603,Team Blaze,Team Cyber,Sanhok,Ranked,17,24,14,-5809,80,90.28,91.19,1,4,0,50,Loss
+604,Team Inferno,Team Galaxy,Vikendi,League,12,4,0,2907,39,73.95,62.65,5,0,0,55,Win
+605,Team Alpha,Team Nova,Vikendi,Tournament,8,14,9,14097,26,80.72,57.09,3,2,3,27,Win
+606,Team Alpha,Team Hunter,Inferno,Ranked,3,2,10,-2408,28,64.48,92.94,5,0,2,22,Loss
+607,Team Falcon,Team Galaxy,Inferno,Ranked,14,21,6,10890,74,60.19,64.19,2,3,5,23,Win
+608,Team Alpha,Team Hunter,Nuke,Tournament,15,16,7,-10674,55,82.95,70.87,0,5,3,38,Loss
+609,Team Blaze,Team Nova,Dust II,Ranked,12,10,3,6256,100,84.94,84.15,5,0,2,33,Win
+610,Team Hunter,Team Blaze,Miramar,Ranked,23,2,14,10059,85,82.55,64.99,4,1,0,26,Win
+611,Team Galaxy,Team Dragon,Nuke,Ranked,7,3,4,9544,83,67.75,61.52,1,4,10,14,Win
+612,Team Falcon,Team Cyber,Vikendi,Ranked,19,12,1,12190,56,87.27,64.85,5,0,5,33,Win
+613,Team Dragon,Team Elite,Sanhok,Ranked,26,18,10,-2972,76,82.08,57.78,3,2,1,24,Win
+614,Team Cyber,Team Blaze,Inferno,Ranked,13,20,6,486,84,58.36,86.17,2,3,2,24,Loss
+615,Team Dragon,Team Falcon,Nuke,Ranked,20,20,14,-1801,54,92.08,75.69,2,3,6,36,Win
+616,Team Inferno,Team Galaxy,Sanhok,Ranked,11,17,0,9996,74,91.72,87.63,2,3,9,46,Win
+617,Team Hunter,Team Elite,Erangel,Ranked,31,11,12,16512,29,69.33,85.74,1,4,2,24,Win
+618,Team Falcon,Team Inferno,Miramar,Ranked,27,15,12,9454,69,76.05,82.57,4,1,1,38,Win
+619,Team Nova,Team Cyber,Inferno,Tournament,14,15,8,7844,85,85.49,82.3,2,3,0,53,Win
+620,Team Dragon,Team Inferno,Sanhok,League,4,13,0,-5309,53,81.03,95.6,1,4,4,27,Loss
+621,Team Blaze,Team Hunter,Inferno,League,27,24,2,-2626,74,62.13,73.36,5,0,4,44,Loss
+622,Team Galaxy,Team Blaze,Nuke,Ranked,8,22,11,-5648,54,87.2,94.99,3,2,4,12,Loss
+623,Team Blaze,Team Hunter,Miramar,Ranked,35,15,9,13242,41,62.59,63.02,1,4,3,43,Win
+624,Team Dragon,Team Cyber,Sanhok,Ranked,14,3,5,-2425,53,97.27,92.48,3,2,10,51,Loss
+625,Team Blaze,Team Hunter,Mirage,Ranked,9,10,2,7423,23,80.18,75.55,5,0,1,12,Win
+626,Team Alpha,Team Blaze,Inferno,Tournament,8,8,0,9619,97,77.36,96.37,2,3,7,42,Win
+627,Team Falcon,Team Galaxy,Inferno,Tournament,17,13,12,9801,98,57.46,70.31,2,3,1,12,Win
+628,Team Cyber,Team Alpha,Vikendi,League,9,18,8,1288,67,74.43,84.51,3,2,8,38,Win
+629,Team Falcon,Team Alpha,Nuke,Tournament,25,3,10,14118,49,81.09,72.21,4,1,1,34,Win
+630,Team Blaze,Team Hunter,Nuke,Ranked,20,21,6,-5618,86,92.68,88.75,5,0,8,14,Loss
+631,Team Elite,Team Nova,Miramar,League,31,7,14,-7419,81,83.49,65.36,1,4,2,54,Loss
+632,Team Alpha,Team Dragon,Nuke,Ranked,22,14,8,-558,52,83.64,95.91,5,0,1,54,Loss
+633,Team Falcon,Team Dragon,Miramar,Tournament,6,22,10,9707,68,83.12,88.76,3,2,3,26,Win
+634,Team Blaze,Team Cyber,Erangel,Tournament,23,25,6,-7391,93,70.81,91.69,3,2,9,12,Loss
+635,Team Dragon,Team Hunter,Nuke,League,29,12,11,-6723,86,83.54,80.4,0,5,6,12,Loss
+636,Team Elite,Team Dragon,Mirage,Tournament,33,23,14,-5339,96,67.19,87.12,5,0,0,50,Loss
+637,Team Blaze,Team Falcon,Vikendi,League,32,22,6,17441,57,85.28,71.2,2,3,2,25,Win
+638,Team Alpha,Team Dragon,Dust II,Tournament,33,25,12,4601,40,97.62,78.56,2,3,6,55,Win
+639,Team Galaxy,Team Blaze,Erangel,League,35,25,9,3505,44,85.15,78.56,0,5,2,32,Win
+640,Team Elite,Team Inferno,Dust II,Ranked,12,20,4,13959,81,67.52,61.23,1,4,3,53,Win
+641,Team Nova,Team Blaze,Dust II,League,11,14,13,-3976,27,59.13,96.89,1,4,0,19,Loss
+642,Team Cyber,Team Hunter,Miramar,League,17,3,3,784,70,76.01,84.58,1,4,10,36,Win
+643,Team Galaxy,Team Elite,Nuke,Ranked,30,13,0,-7136,34,58.55,76.04,5,0,8,26,Loss
+644,Team Blaze,Team Dragon,Erangel,Tournament,26,17,13,4553,93,60.39,68.98,5,0,8,23,Win
+645,Team Inferno,Team Nova,Dust II,Tournament,33,4,3,-1404,35,62.77,80.76,1,4,0,47,Loss
+646,Team Cyber,Team Elite,Erangel,Tournament,12,4,8,-12706,30,97.14,76.76,2,3,8,22,Loss
+647,Team Alpha,Team Nova,Vikendi,League,20,23,14,-5835,93,76.09,68.46,2,3,9,46,Loss
+648,Team Alpha,Team Elite,Sanhok,Tournament,4,8,4,4641,47,96.17,80.89,1,4,9,34,Win
+649,Team Galaxy,Team Blaze,Vikendi,League,18,10,12,-4297,71,74.61,95.62,5,0,6,21,Loss
+650,Team Elite,Team Dragon,Miramar,Ranked,25,20,5,12504,39,68.6,88.87,3,2,0,50,Win
+651,Team Inferno,Team Blaze,Miramar,Ranked,28,4,10,-9169,66,94.1,88.46,1,4,3,29,Loss
+652,Team Dragon,Team Hunter,Mirage,Tournament,8,5,5,5090,95,90.32,76.05,4,1,5,48,Win
+653,Team Alpha,Team Dragon,Mirage,Ranked,22,14,5,7621,88,78.72,92.93,3,2,7,49,Win
+654,Team Inferno,Team Cyber,Inferno,League,10,6,12,2522,26,94.49,82.49,2,3,3,55,Win
+655,Team Cyber,Team Inferno,Mirage,Ranked,24,16,9,3076,74,77.39,85.89,1,4,4,52,Win
+656,Team Falcon,Team Blaze,Inferno,Ranked,7,4,7,-8864,41,79.74,58.64,2,3,8,43,Loss
+657,Team Cyber,Team Inferno,Dust II,League,33,18,3,11572,21,81.5,94.17,5,0,0,39,Win
+658,Team Inferno,Team Alpha,Inferno,Tournament,30,7,7,-3544,29,70.78,60.73,2,3,0,39,Loss
+659,Team Blaze,Team Galaxy,Vikendi,Tournament,17,19,3,4009,58,75.77,66.38,0,5,10,48,Win
+660,Team Inferno,Team Alpha,Dust II,Ranked,31,21,15,-11232,65,55.25,74.8,2,3,5,18,Loss
+661,Team Cyber,Team Hunter,Erangel,Tournament,24,2,3,13233,82,63.49,77.75,1,4,6,19,Win
+662,Team Elite,Team Dragon,Nuke,League,32,14,11,4613,66,73.42,62.83,2,3,1,40,Win
+663,Team Falcon,Team Hunter,Vikendi,Ranked,2,13,6,-7748,44,67.25,60.75,3,2,5,14,Loss
+664,Team Elite,Team Blaze,Miramar,Ranked,28,17,15,-6649,61,87.3,88.55,3,2,8,36,Loss
+665,Team Alpha,Team Dragon,Mirage,Tournament,11,13,0,499,26,84.17,69.71,4,1,0,39,Win
+666,Team Blaze,Team Hunter,Vikendi,Tournament,17,21,4,-2754,51,67.09,59.95,2,3,3,54,Loss
+667,Team Blaze,Team Nova,Vikendi,Ranked,13,8,4,32,35,60.69,56.65,1,4,2,39,Loss
+668,Team Alpha,Team Hunter,Mirage,Ranked,28,18,9,166,48,69.46,75.61,4,1,6,53,Win
+669,Team Falcon,Team Elite,Dust II,League,24,24,13,1185,60,93.49,62.82,0,5,0,54,Win
+670,Team Hunter,Team Elite,Sanhok,League,8,15,5,1532,82,70.63,68.09,0,5,10,12,Win
+671,Team Falcon,Team Nova,Erangel,Ranked,25,9,8,-1236,94,71.51,93.15,1,4,10,50,Loss
+672,Team Dragon,Team Elite,Sanhok,Ranked,30,5,2,7472,58,86.19,97.55,1,4,8,21,Win
+673,Team Inferno,Team Elite,Mirage,League,24,13,14,-7305,75,57.91,73.02,4,1,0,22,Loss
+674,Team Cyber,Team Falcon,Inferno,Tournament,4,20,1,-2536,70,76.29,77.9,4,1,1,22,Loss
+675,Team Galaxy,Team Hunter,Mirage,League,19,8,5,-14765,40,79.59,80.46,0,5,8,41,Loss
+676,Team Dragon,Team Falcon,Sanhok,Tournament,19,19,3,-3787,48,56.96,65.24,0,5,10,21,Loss
+677,Team Alpha,Team Elite,Sanhok,Tournament,15,19,3,-14909,64,82.21,96.81,2,3,1,47,Loss
+678,Team Nova,Team Elite,Miramar,League,22,3,0,8296,48,86.41,67.03,2,3,0,46,Win
+679,Team Galaxy,Team Elite,Inferno,Ranked,15,16,7,6250,54,63.77,82.08,3,2,2,40,Win
+680,Team Hunter,Team Blaze,Erangel,Tournament,33,7,14,-2875,42,63.12,76.09,5,0,2,53,Loss
+681,Team Cyber,Team Hunter,Erangel,Ranked,14,4,4,-10279,74,65.55,94.09,3,2,1,45,Loss
+682,Team Galaxy,Team Hunter,Erangel,Ranked,3,5,0,-12134,36,65.68,58.59,1,4,10,50,Loss
+683,Team Blaze,Team Nova,Nuke,Tournament,23,24,2,-1741,37,75.66,79.2,3,2,2,31,Loss
+684,Team Alpha,Team Nova,Vikendi,Ranked,19,22,3,-13611,25,59.42,67.76,4,1,6,21,Loss
+685,Team Galaxy,Team Hunter,Vikendi,Ranked,11,13,9,-197,69,84.53,85.74,0,5,7,22,Loss
+686,Team Elite,Team Galaxy,Inferno,Ranked,6,21,10,-7244,66,94.7,94.55,0,5,9,21,Loss
+687,Team Nova,Team Cyber,Miramar,Tournament,29,6,9,3809,64,92.64,66.66,3,2,10,35,Win
+688,Team Cyber,Team Dragon,Dust II,Ranked,22,6,12,14274,81,90.03,59.87,3,2,4,21,Win
+689,Team Cyber,Team Hunter,Vikendi,League,24,12,15,12776,81,84.82,72.8,5,0,5,20,Win
+690,Team Inferno,Team Hunter,Dust II,Ranked,33,19,7,10206,30,79.98,73.14,4,1,3,17,Win
+691,Team Alpha,Team Galaxy,Inferno,Ranked,32,6,3,-11096,64,70.52,91.52,1,4,4,41,Loss
+692,Team Dragon,Team Alpha,Miramar,League,10,5,4,9737,23,84.93,73.26,0,5,1,54,Win
+693,Team Nova,Team Cyber,Sanhok,Tournament,3,6,11,-5742,30,65.54,55.54,3,2,2,23,Loss
+694,Team Elite,Team Inferno,Sanhok,Ranked,28,25,10,14096,21,67.33,61.7,5,0,0,50,Win
+695,Team Galaxy,Team Inferno,Vikendi,Ranked,18,20,9,-103,74,95.05,66.69,0,5,8,36,Win
+696,Team Alpha,Team Elite,Inferno,Tournament,27,7,2,15699,81,68.47,82.6,3,2,2,15,Win
+697,Team Blaze,Team Cyber,Mirage,Ranked,6,13,10,-13162,50,67.13,78.29,0,5,3,50,Loss
+698,Team Dragon,Team Alpha,Erangel,Tournament,17,10,2,-12060,92,97.42,75.8,0,5,5,17,Loss
+699,Team Elite,Team Hunter,Miramar,League,34,8,10,10601,65,96.88,85.21,0,5,5,38,Win
+700,Team Cyber,Team Alpha,Sanhok,Ranked,26,17,1,4013,40,61.52,74.91,5,0,1,26,Win
+701,Team Cyber,Team Nova,Vikendi,Tournament,35,25,10,14326,36,69.58,70.49,3,2,0,55,Win
+702,Team Nova,Team Blaze,Nuke,Ranked,11,20,15,-8617,21,61.13,92.43,4,1,1,43,Loss
+703,Team Elite,Team Cyber,Nuke,Tournament,6,10,11,8158,31,58.06,85.56,3,2,4,42,Win
+704,Team Cyber,Team Blaze,Dust II,Tournament,33,3,11,3784,71,72.59,81.65,5,0,2,40,Win
+705,Team Galaxy,Team Nova,Sanhok,Tournament,30,10,1,-11261,51,85.09,79.11,1,4,1,30,Loss
+706,Team Blaze,Team Elite,Miramar,Ranked,26,16,2,7867,79,75.15,78.01,3,2,1,17,Win
+707,Team Galaxy,Team Hunter,Nuke,Tournament,14,14,10,-10775,60,69.72,80.99,1,4,7,19,Loss
+708,Team Cyber,Team Inferno,Nuke,Tournament,11,22,6,5983,92,56.35,80.85,3,2,0,35,Win
+709,Team Dragon,Team Alpha,Vikendi,Tournament,29,10,8,-3459,30,61.09,66.78,0,5,4,40,Loss
+710,Team Elite,Team Cyber,Sanhok,League,5,4,13,7414,58,62.07,70.02,3,2,7,42,Win
+711,Team Galaxy,Team Falcon,Nuke,Ranked,26,2,6,-9901,94,81.51,68.92,5,0,5,12,Loss
+712,Team Hunter,Team Falcon,Miramar,League,9,23,13,2223,86,86.06,97.49,1,4,10,40,Win
+713,Team Dragon,Team Hunter,Dust II,Tournament,12,21,12,-836,64,64.02,63.22,5,0,9,12,Loss
+714,Team Elite,Team Nova,Miramar,Tournament,9,24,15,14884,72,72.65,70.15,4,1,6,45,Win
+715,Team Hunter,Team Galaxy,Miramar,Tournament,25,7,5,13565,68,67.26,83.36,5,0,6,52,Win
+716,Team Blaze,Team Cyber,Erangel,Tournament,3,21,13,-8206,83,87.25,81.82,4,1,1,52,Loss
+717,Team Galaxy,Team Dragon,Inferno,League,16,16,12,-7497,45,91.82,95.87,2,3,7,38,Loss
+718,Team Falcon,Team Dragon,Inferno,Ranked,34,11,8,2334,59,91.05,89.19,3,2,10,27,Win
+719,Team Alpha,Team Dragon,Inferno,Ranked,25,18,10,6960,41,96.24,97.69,1,4,8,37,Win
+720,Team Nova,Team Galaxy,Sanhok,League,10,22,12,-3616,71,93.88,77.24,3,2,3,18,Loss
+721,Team Nova,Team Galaxy,Erangel,Ranked,18,19,5,6129,46,59.01,56.1,0,5,10,49,Win
+722,Team Inferno,Team Blaze,Vikendi,Ranked,26,2,4,14734,100,88.44,63.02,5,0,3,31,Win
+723,Team Galaxy,Team Elite,Miramar,League,5,10,2,-5578,100,56.0,97.35,0,5,1,41,Loss
+724,Team Elite,Team Falcon,Miramar,Tournament,13,4,2,17390,66,94.25,63.94,0,5,7,13,Win
+725,Team Blaze,Team Elite,Erangel,League,28,14,10,14548,40,62.73,55.44,1,4,10,48,Win
+726,Team Falcon,Team Galaxy,Erangel,League,32,21,0,-4620,86,86.89,94.84,1,4,9,13,Loss
+727,Team Cyber,Team Elite,Nuke,Tournament,25,5,6,-13067,61,60.96,58.59,5,0,2,29,Loss
+728,Team Blaze,Team Galaxy,Mirage,League,20,16,15,13577,85,95.69,94.66,2,3,2,24,Win
+729,Team Blaze,Team Falcon,Inferno,League,12,8,15,13407,77,73.22,87.12,2,3,9,18,Win
+730,Team Nova,Team Falcon,Dust II,Tournament,25,22,2,14452,41,93.25,96.2,2,3,9,38,Win
+731,Team Blaze,Team Dragon,Erangel,Ranked,22,15,5,8445,51,58.12,83.25,2,3,2,32,Win
+732,Team Alpha,Team Galaxy,Mirage,Ranked,15,16,10,246,91,57.85,67.2,1,4,8,25,Win
+733,Team Blaze,Team Hunter,Miramar,Ranked,29,12,10,-2015,45,57.14,76.24,0,5,4,38,Loss
+734,Team Nova,Team Falcon,Inferno,Ranked,26,9,0,3680,22,82.68,91.81,0,5,7,30,Win
+735,Team Inferno,Team Nova,Dust II,Tournament,4,12,0,-10449,80,59.09,89.51,5,0,4,29,Loss
+736,Team Inferno,Team Falcon,Miramar,League,33,21,1,10777,58,84.95,74.55,5,0,1,35,Win
+737,Team Alpha,Team Blaze,Erangel,League,10,5,10,13552,48,62.32,63.22,2,3,8,12,Win
+738,Team Alpha,Team Cyber,Nuke,Ranked,5,11,2,2283,62,84.58,89.04,3,2,4,22,Win
+739,Team Falcon,Team Cyber,Nuke,Tournament,28,22,14,-6981,86,77.69,79.85,5,0,7,29,Loss
+740,Team Elite,Team Falcon,Nuke,Ranked,7,13,7,-1507,29,58.23,76.27,1,4,0,54,Loss
+741,Team Dragon,Team Inferno,Dust II,Ranked,8,12,6,5536,59,85.47,83.18,4,1,1,20,Win
+742,Team Hunter,Team Nova,Nuke,Ranked,14,14,6,-10502,55,73.19,84.51,4,1,10,18,Loss
+743,Team Blaze,Team Elite,Miramar,League,3,16,5,2482,23,75.48,77.83,2,3,4,19,Win
+744,Team Dragon,Team Cyber,Inferno,League,27,18,13,6871,26,73.98,70.9,0,5,10,36,Win
+745,Team Dragon,Team Hunter,Miramar,Ranked,13,21,8,17349,86,73.64,84.29,5,0,3,19,Win
+746,Team Alpha,Team Falcon,Vikendi,Ranked,17,4,3,3052,48,92.95,85.08,3,2,6,37,Win
+747,Team Elite,Team Inferno,Nuke,League,15,7,6,7782,56,85.35,67.38,0,5,1,23,Win
+748,Team Dragon,Team Cyber,Dust II,Tournament,22,23,2,-4079,43,69.28,74.57,0,5,10,42,Loss
+749,Team Elite,Team Blaze,Erangel,Ranked,12,23,0,8078,80,80.08,76.0,1,4,7,19,Win
+750,Team Elite,Team Dragon,Dust II,League,35,18,5,-5394,32,59.3,89.57,2,3,7,43,Loss
+751,Team Elite,Team Inferno,Miramar,Tournament,18,13,14,-14112,65,67.95,69.35,4,1,10,50,Loss
+752,Team Inferno,Team Alpha,Miramar,Ranked,11,15,7,-5718,65,76.41,65.51,5,0,6,35,Loss
+753,Team Galaxy,Team Blaze,Mirage,Tournament,19,22,14,-3535,53,94.14,70.0,2,3,6,49,Loss
+754,Team Alpha,Team Nova,Nuke,Ranked,23,21,3,13407,78,79.37,89.08,2,3,4,19,Win
+755,Team Cyber,Team Inferno,Vikendi,Ranked,11,18,9,-4344,58,75.93,57.78,2,3,0,41,Loss
+756,Team Nova,Team Blaze,Mirage,Tournament,5,17,9,-14667,75,70.15,90.87,0,5,4,20,Loss
+757,Team Inferno,Team Nova,Dust II,Tournament,11,4,8,-5652,45,73.58,94.49,2,3,3,14,Loss
+758,Team Galaxy,Team Hunter,Vikendi,Ranked,27,5,8,4793,96,68.36,79.25,5,0,5,49,Win
+759,Team Galaxy,Team Nova,Miramar,Tournament,14,11,9,-9391,58,79.37,82.02,4,1,2,36,Loss
+760,Team Hunter,Team Falcon,Erangel,League,34,23,11,15695,65,73.39,73.08,3,2,7,13,Win
+761,Team Galaxy,Team Blaze,Inferno,Ranked,10,21,9,902,94,77.02,60.47,4,1,9,30,Win
+762,Team Alpha,Team Inferno,Mirage,Ranked,35,16,1,-9452,27,66.62,97.41,0,5,5,50,Loss
+763,Team Falcon,Team Alpha,Sanhok,League,9,25,1,-1561,86,61.2,86.84,3,2,2,26,Loss
+764,Team Elite,Team Alpha,Vikendi,Ranked,33,21,6,-7483,28,55.0,80.96,0,5,8,18,Loss
+765,Team Alpha,Team Nova,Nuke,League,30,14,1,-7017,58,72.4,97.26,1,4,8,28,Loss
+766,Team Nova,Team Blaze,Nuke,Ranked,29,6,0,-2889,38,90.2,83.27,1,4,8,46,Loss
+767,Team Elite,Team Blaze,Mirage,Ranked,33,13,8,10636,69,85.0,59.62,3,2,6,21,Win
+768,Team Nova,Team Galaxy,Nuke,League,2,20,9,-12767,99,74.11,94.05,2,3,2,41,Loss
+769,Team Cyber,Team Galaxy,Dust II,League,34,18,6,7861,87,71.8,57.7,5,0,2,34,Win
+770,Team Cyber,Team Falcon,Mirage,League,21,14,2,16702,68,96.39,81.05,1,4,9,44,Win
+771,Team Falcon,Team Galaxy,Vikendi,Tournament,27,4,1,-13066,40,64.96,83.61,3,2,10,42,Loss
+772,Team Dragon,Team Blaze,Erangel,Tournament,13,25,12,12528,28,57.66,65.77,0,5,1,40,Win
+773,Team Falcon,Team Blaze,Sanhok,League,30,14,4,-1911,45,65.86,73.81,2,3,3,24,Loss
+774,Team Inferno,Team Dragon,Miramar,League,7,20,0,-8696,46,56.43,61.04,0,5,5,38,Loss
+775,Team Inferno,Team Hunter,Inferno,Tournament,14,8,15,17823,65,70.33,93.69,1,4,1,40,Win
+776,Team Nova,Team Blaze,Mirage,Ranked,10,18,9,-8387,35,76.44,57.21,4,1,5,13,Loss
+777,Team Elite,Team Hunter,Inferno,Tournament,24,4,5,3878,29,77.98,65.38,4,1,9,44,Win
+778,Team Inferno,Team Blaze,Dust II,League,32,10,0,-12885,63,73.12,63.62,0,5,2,25,Loss
+779,Team Alpha,Team Elite,Sanhok,Tournament,33,4,1,7665,29,95.85,80.72,4,1,1,47,Win
+780,Team Alpha,Team Cyber,Vikendi,Ranked,4,17,7,7954,75,75.54,88.61,1,4,0,15,Win
+781,Team Galaxy,Team Alpha,Dust II,Ranked,32,3,12,9722,36,73.48,73.35,1,4,1,40,Win
+782,Team Falcon,Team Hunter,Vikendi,Ranked,5,9,7,-8972,95,55.43,72.76,4,1,9,14,Loss
+783,Team Blaze,Team Alpha,Inferno,League,10,16,5,3520,25,68.51,80.9,1,4,4,20,Win
+784,Team Blaze,Team Cyber,Mirage,League,6,10,6,17435,65,93.6,91.93,3,2,4,35,Win
+785,Team Dragon,Team Nova,Vikendi,Ranked,19,12,3,-11462,64,93.72,85.34,4,1,7,29,Loss
+786,Team Inferno,Team Dragon,Nuke,League,21,25,6,-6956,67,86.17,88.88,0,5,3,40,Loss
+787,Team Alpha,Team Inferno,Erangel,Tournament,4,10,8,10177,58,90.57,58.63,2,3,9,36,Win
+788,Team Galaxy,Team Inferno,Dust II,League,4,9,6,9859,43,83.38,77.9,5,0,4,14,Win
+789,Team Nova,Team Falcon,Inferno,League,18,20,6,-13208,63,86.21,81.73,3,2,0,18,Loss
+790,Team Elite,Team Nova,Mirage,Tournament,31,15,8,-4348,68,75.1,97.68,1,4,2,12,Loss
+791,Team Dragon,Team Nova,Miramar,Ranked,20,12,12,-12470,98,66.79,66.56,2,3,10,50,Loss
+792,Team Falcon,Team Elite,Vikendi,League,13,16,14,-13869,76,55.38,56.59,2,3,7,52,Loss
+793,Team Nova,Team Blaze,Vikendi,Ranked,19,21,10,-10803,76,62.73,87.94,2,3,4,43,Loss
+794,Team Cyber,Team Alpha,Mirage,Ranked,16,5,1,-2925,84,92.0,79.94,0,5,8,26,Win
+795,Team Alpha,Team Galaxy,Dust II,Ranked,4,21,7,7919,33,58.33,74.08,4,1,1,27,Win
+796,Team Galaxy,Team Blaze,Mirage,Tournament,29,11,4,-13382,61,81.1,70.49,3,2,10,35,Loss
+797,Team Cyber,Team Galaxy,Dust II,League,4,11,4,-13327,33,81.19,89.75,4,1,8,49,Loss
+798,Team Galaxy,Team Alpha,Miramar,League,11,14,2,-9934,48,79.31,97.91,5,0,8,38,Loss
+799,Team Inferno,Team Alpha,Vikendi,Tournament,32,23,14,5770,54,63.39,79.74,1,4,5,27,Win
+800,Team Blaze,Team Elite,Vikendi,League,30,25,13,8716,30,70.14,76.74,2,3,10,42,Win
+801,Team Galaxy,Team Dragon,Miramar,Ranked,10,19,7,11713,94,83.63,81.04,2,3,5,32,Win
+802,Team Inferno,Team Cyber,Miramar,League,33,22,6,-3210,78,55.67,60.19,2,3,8,42,Loss
+803,Team Alpha,Team Hunter,Inferno,Ranked,3,24,5,-10215,36,77.14,77.76,3,2,6,34,Loss
+804,Team Dragon,Team Falcon,Inferno,Tournament,9,12,10,-7938,25,58.17,94.59,3,2,6,52,Loss
+805,Team Hunter,Team Cyber,Nuke,Tournament,13,25,2,-5022,20,80.52,70.9,5,0,7,36,Loss
+806,Team Nova,Team Elite,Mirage,Tournament,8,9,9,17328,63,57.08,77.26,4,1,9,44,Win
+807,Team Falcon,Team Cyber,Sanhok,Tournament,11,3,6,13215,86,66.97,92.82,2,3,1,34,Win
+808,Team Elite,Team Inferno,Miramar,Ranked,30,9,5,3905,53,97.52,87.4,1,4,10,29,Win
+809,Team Inferno,Team Cyber,Inferno,League,3,21,1,-2212,20,76.0,90.36,2,3,3,30,Loss
+810,Team Inferno,Team Cyber,Miramar,League,31,11,3,-7140,76,93.22,76.21,0,5,2,29,Loss
+811,Team Blaze,Team Elite,Inferno,Ranked,6,12,5,6976,55,74.5,86.63,5,0,1,32,Win
+812,Team Inferno,Team Falcon,Nuke,Tournament,14,19,1,-14478,51,60.89,71.18,1,4,10,24,Loss
+813,Team Cyber,Team Inferno,Vikendi,Tournament,20,6,6,-9187,86,91.86,87.23,0,5,6,16,Loss
+814,Team Alpha,Team Hunter,Nuke,Tournament,18,21,12,382,64,75.82,83.25,1,4,4,26,Win
+815,Team Galaxy,Team Falcon,Vikendi,Tournament,32,11,3,-653,34,96.41,93.56,2,3,6,40,Win
+816,Team Blaze,Team Dragon,Vikendi,Tournament,31,12,3,7778,70,85.31,88.27,3,2,7,50,Win
+817,Team Elite,Team Nova,Erangel,Tournament,15,15,1,6180,53,84.02,72.68,3,2,6,37,Win
+818,Team Dragon,Team Galaxy,Dust II,League,4,11,14,11857,48,79.62,62.16,1,4,10,19,Win
+819,Team Inferno,Team Alpha,Dust II,Ranked,3,14,2,6842,65,87.97,78.77,5,0,0,45,Win
+820,Team Cyber,Team Nova,Erangel,Ranked,27,24,7,4017,40,94.16,69.25,1,4,8,27,Win
+821,Team Inferno,Team Blaze,Miramar,Tournament,34,14,15,-12229,40,67.17,56.04,5,0,3,14,Loss
+822,Team Galaxy,Team Hunter,Sanhok,Ranked,10,25,8,-9435,29,58.18,86.05,5,0,6,13,Loss
+823,Team Nova,Team Galaxy,Mirage,Ranked,14,21,9,6215,74,77.03,56.01,2,3,7,24,Win
+824,Team Nova,Team Hunter,Vikendi,League,26,11,13,-8902,48,96.58,79.12,3,2,4,46,Loss
+825,Team Hunter,Team Galaxy,Miramar,Tournament,25,19,3,14639,48,79.85,56.07,1,4,7,35,Win
+826,Team Falcon,Team Cyber,Vikendi,League,7,5,5,-1390,82,80.52,58.61,3,2,9,42,Win
+827,Team Hunter,Team Elite,Vikendi,League,28,11,10,-5130,24,68.82,79.31,3,2,0,29,Loss
+828,Team Hunter,Team Nova,Miramar,Tournament,33,12,7,6091,79,85.48,77.12,5,0,1,18,Win
+829,Team Alpha,Team Dragon,Nuke,Ranked,35,25,3,-4109,45,73.82,96.79,0,5,6,43,Loss
+830,Team Inferno,Team Galaxy,Dust II,Tournament,27,2,9,-7295,75,97.82,85.96,5,0,4,45,Loss
+831,Team Cyber,Team Dragon,Nuke,Ranked,20,18,6,9330,86,80.99,75.3,1,4,5,20,Win
+832,Team Galaxy,Team Cyber,Miramar,Tournament,11,17,2,-14633,59,85.16,63.57,0,5,8,41,Loss
+833,Team Hunter,Team Cyber,Mirage,League,6,13,7,7607,100,55.61,63.28,2,3,6,49,Win
+834,Team Galaxy,Team Elite,Inferno,League,14,4,4,-8252,47,67.04,66.31,0,5,2,45,Loss
+835,Team Nova,Team Elite,Nuke,Ranked,32,8,5,-14825,49,97.53,58.93,4,1,2,21,Loss
+836,Team Falcon,Team Blaze,Inferno,Tournament,5,6,14,12879,80,69.06,76.52,0,5,3,47,Win
+837,Team Hunter,Team Falcon,Nuke,Tournament,21,18,10,-9876,97,91.21,96.08,5,0,4,21,Loss
+838,Team Elite,Team Blaze,Vikendi,Ranked,29,22,11,-3334,23,92.24,91.78,5,0,5,39,Loss
+839,Team Cyber,Team Alpha,Mirage,Ranked,14,16,11,-2228,20,80.21,69.12,2,3,4,44,Loss
+840,Team Elite,Team Inferno,Nuke,League,27,3,8,2968,100,57.46,79.6,0,5,7,50,Win
+841,Team Hunter,Team Nova,Inferno,Ranked,8,3,11,-13111,98,93.45,61.59,5,0,2,20,Loss
+842,Team Blaze,Team Alpha,Erangel,League,30,22,1,5593,32,91.89,66.93,1,4,10,51,Win
+843,Team Falcon,Team Cyber,Mirage,Ranked,25,18,0,11422,73,91.02,83.79,0,5,3,44,Win
+844,Team Hunter,Team Alpha,Dust II,League,19,21,6,11820,42,82.32,91.21,0,5,4,29,Win
+845,Team Hunter,Team Blaze,Erangel,Ranked,31,4,3,-9065,43,86.37,62.98,4,1,10,13,Loss
+846,Team Falcon,Team Inferno,Mirage,League,7,25,7,5170,44,87.14,86.74,2,3,0,36,Win
+847,Team Cyber,Team Galaxy,Nuke,Ranked,28,9,6,2878,45,62.62,67.68,5,0,7,28,Win
+848,Team Falcon,Team Galaxy,Mirage,League,35,16,5,-12593,94,71.58,78.13,1,4,6,34,Loss
+849,Team Inferno,Team Nova,Sanhok,League,19,4,6,1922,47,75.11,56.35,0,5,8,54,Win
+850,Team Hunter,Team Falcon,Dust II,Tournament,25,20,12,-12782,61,85.16,82.07,0,5,2,38,Loss
+851,Team Blaze,Team Dragon,Inferno,League,24,11,5,15594,89,63.0,55.94,4,1,7,49,Win
+852,Team Hunter,Team Dragon,Inferno,Tournament,18,25,11,7143,81,84.18,67.91,1,4,8,18,Win
+853,Team Nova,Team Galaxy,Dust II,Ranked,3,7,5,4698,96,96.51,95.54,1,4,9,20,Win
+854,Team Alpha,Team Cyber,Mirage,Tournament,21,6,11,15062,70,62.11,55.04,1,4,3,23,Win
+855,Team Dragon,Team Elite,Nuke,Ranked,29,4,7,-4899,91,91.36,71.09,3,2,2,34,Loss
+856,Team Galaxy,Team Dragon,Dust II,Tournament,32,23,12,15374,51,87.81,59.12,1,4,5,20,Win
+857,Team Galaxy,Team Hunter,Erangel,Tournament,6,13,15,-13238,48,93.08,62.66,1,4,5,35,Loss
+858,Team Galaxy,Team Blaze,Inferno,Ranked,16,6,15,-2682,25,64.08,73.72,2,3,6,53,Loss
+859,Team Elite,Team Hunter,Miramar,Tournament,32,3,8,12638,42,62.03,84.34,0,5,7,17,Win
+860,Team Galaxy,Team Alpha,Mirage,Ranked,12,12,4,10165,78,55.5,83.11,5,0,6,39,Win
+861,Team Blaze,Team Inferno,Miramar,Tournament,34,13,15,6958,88,96.79,59.8,1,4,6,46,Win
+862,Team Falcon,Team Elite,Dust II,Ranked,14,18,14,13500,26,74.98,56.71,3,2,7,35,Win
+863,Team Falcon,Team Elite,Miramar,Ranked,3,19,8,-3287,57,70.35,55.75,2,3,4,52,Loss
+864,Team Alpha,Team Nova,Dust II,Tournament,27,9,5,-9492,88,59.07,86.25,5,0,7,39,Loss
+865,Team Nova,Team Dragon,Miramar,Tournament,35,20,14,-12337,29,69.04,56.65,4,1,10,18,Loss
+866,Team Elite,Team Hunter,Mirage,Tournament,27,2,5,1833,30,90.98,73.64,0,5,3,48,Win
+867,Team Inferno,Team Dragon,Erangel,League,5,13,15,-897,75,66.82,84.62,1,4,4,44,Loss
+868,Team Cyber,Team Falcon,Dust II,League,19,2,13,-1426,22,88.63,83.26,2,3,4,41,Loss
+869,Team Dragon,Team Alpha,Inferno,League,22,9,2,3863,97,90.56,80.28,5,0,9,33,Win
+870,Team Inferno,Team Alpha,Sanhok,League,23,12,10,7699,76,61.53,91.74,3,2,3,46,Win
+871,Team Elite,Team Hunter,Mirage,Tournament,4,23,2,16885,91,97.35,58.57,5,0,8,35,Win
+872,Team Hunter,Team Inferno,Nuke,League,3,6,5,8044,92,73.56,97.82,0,5,4,47,Win
+873,Team Galaxy,Team Nova,Inferno,Ranked,10,14,3,-8645,70,64.39,97.66,4,1,4,23,Loss
+874,Team Falcon,Team Dragon,Inferno,Tournament,28,21,8,5932,66,82.1,83.56,5,0,10,52,Win
+875,Team Galaxy,Team Inferno,Miramar,Ranked,31,11,14,-4713,42,72.2,55.14,2,3,7,53,Loss
+876,Team Galaxy,Team Hunter,Inferno,League,28,8,0,-308,37,81.22,76.64,0,5,9,48,Win
+877,Team Falcon,Team Dragon,Vikendi,League,12,20,15,-9039,67,55.98,80.86,5,0,6,47,Loss
+878,Team Cyber,Team Inferno,Erangel,Ranked,25,25,7,-3518,80,95.3,94.62,2,3,2,30,Loss
+879,Team Hunter,Team Inferno,Vikendi,Ranked,17,23,14,852,42,96.83,76.51,0,5,9,33,Win
+880,Team Blaze,Team Alpha,Erangel,League,4,23,13,15815,69,58.03,72.93,2,3,8,19,Win
+881,Team Alpha,Team Falcon,Miramar,Ranked,27,25,1,8814,71,85.81,77.0,5,0,7,39,Win
+882,Team Elite,Team Blaze,Miramar,Tournament,12,13,13,7271,38,94.26,89.21,1,4,4,18,Win
+883,Team Hunter,Team Dragon,Sanhok,Ranked,18,12,9,14142,62,88.86,85.08,4,1,4,50,Win
+884,Team Elite,Team Alpha,Nuke,League,16,13,11,4085,59,95.63,61.81,5,0,4,42,Win
+885,Team Cyber,Team Dragon,Erangel,Ranked,11,21,9,10180,52,82.38,56.2,1,4,9,31,Win
+886,Team Inferno,Team Nova,Sanhok,Tournament,27,17,5,7558,39,80.25,76.55,4,1,5,36,Win
+887,Team Hunter,Team Cyber,Miramar,League,32,14,0,-10757,63,64.67,63.88,1,4,4,50,Loss
+888,Team Falcon,Team Inferno,Miramar,League,31,20,0,-34,45,70.63,56.41,5,0,1,33,Win
+889,Team Inferno,Team Nova,Nuke,Ranked,7,3,14,1251,51,66.01,86.8,5,0,10,27,Win
+890,Team Nova,Team Elite,Nuke,League,19,4,6,-10828,36,77.47,57.62,1,4,3,49,Loss
+891,Team Inferno,Team Alpha,Vikendi,League,22,22,2,-2128,81,60.01,58.59,1,4,1,46,Loss
+892,Team Elite,Team Alpha,Mirage,Tournament,29,5,14,-2234,95,89.65,81.42,3,2,0,28,Win
+893,Team Cyber,Team Galaxy,Mirage,League,34,17,9,4637,53,92.29,65.71,2,3,10,47,Win
+894,Team Blaze,Team Dragon,Nuke,Ranked,33,2,10,15835,83,62.01,57.82,3,2,10,31,Win
+895,Team Inferno,Team Cyber,Mirage,League,14,5,7,-1027,59,76.58,68.76,4,1,7,18,Win
+896,Team Dragon,Team Cyber,Inferno,Tournament,22,7,6,10967,41,91.65,81.24,1,4,5,45,Win
+897,Team Elite,Team Dragon,Inferno,Tournament,18,17,9,9300,38,68.17,86.25,5,0,5,40,Win
+898,Team Galaxy,Team Alpha,Mirage,League,27,3,13,8174,37,96.92,87.98,0,5,3,25,Win
+899,Team Falcon,Team Alpha,Mirage,Tournament,22,15,12,6344,91,79.08,63.58,1,4,9,44,Win
+900,Team Dragon,Team Cyber,Inferno,Tournament,22,25,15,15793,25,88.59,71.77,5,0,7,27,Win
+901,Team Alpha,Team Galaxy,Inferno,League,19,19,11,13712,56,59.77,60.77,5,0,1,32,Win
+902,Team Cyber,Team Falcon,Mirage,League,14,19,2,13721,51,69.1,78.5,5,0,4,47,Win
+903,Team Cyber,Team Blaze,Mirage,League,22,13,14,-923,43,68.81,64.79,2,3,5,24,Loss
+904,Team Alpha,Team Dragon,Erangel,Tournament,9,22,13,13005,70,89.66,89.32,4,1,0,44,Win
+905,Team Alpha,Team Nova,Miramar,League,22,19,15,3523,93,69.35,57.89,0,5,9,17,Win
+906,Team Inferno,Team Blaze,Miramar,Tournament,31,21,6,-10211,75,90.16,75.03,5,0,2,53,Loss
+907,Team Nova,Team Falcon,Dust II,Ranked,31,18,13,-13593,71,79.71,55.27,3,2,0,12,Loss
+908,Team Elite,Team Dragon,Sanhok,Ranked,22,19,14,-1872,93,94.79,93.41,5,0,9,21,Loss
+909,Team Cyber,Team Blaze,Vikendi,Ranked,3,19,1,-6656,89,69.99,57.98,2,3,3,54,Loss
+910,Team Galaxy,Team Elite,Vikendi,Tournament,16,8,11,-13212,37,92.74,95.61,0,5,6,13,Loss
+911,Team Hunter,Team Inferno,Miramar,League,27,8,6,9936,95,90.02,58.99,1,4,8,49,Win
+912,Team Dragon,Team Blaze,Miramar,Tournament,33,25,11,5767,73,63.21,97.36,4,1,5,42,Win
+913,Team Alpha,Team Blaze,Vikendi,Tournament,26,15,12,-8443,65,70.5,68.33,0,5,6,53,Loss
+914,Team Blaze,Team Hunter,Sanhok,League,32,2,8,6185,25,61.05,65.71,4,1,0,20,Win
+915,Team Hunter,Team Alpha,Sanhok,League,5,21,6,4207,67,81.55,90.4,3,2,2,23,Win
+916,Team Cyber,Team Galaxy,Erangel,Ranked,9,7,0,17607,46,68.16,81.89,2,3,9,32,Win
+917,Team Hunter,Team Alpha,Miramar,Ranked,11,15,1,9709,96,86.07,62.3,0,5,0,34,Win
+918,Team Blaze,Team Cyber,Mirage,Tournament,32,16,13,13863,37,91.85,89.81,0,5,4,42,Win
+919,Team Inferno,Team Falcon,Miramar,Ranked,8,17,15,-2137,36,64.43,60.58,1,4,3,54,Loss
+920,Team Elite,Team Blaze,Mirage,League,17,9,8,-2901,58,69.13,96.88,5,0,9,45,Loss
+921,Team Cyber,Team Galaxy,Erangel,League,29,13,4,-12758,69,82.17,89.15,1,4,0,21,Loss
+922,Team Dragon,Team Cyber,Nuke,Ranked,27,12,0,16508,81,91.88,63.07,4,1,6,40,Win
+923,Team Inferno,Team Hunter,Miramar,Tournament,9,25,8,7108,63,97.86,63.01,2,3,7,47,Win
+924,Team Falcon,Team Nova,Mirage,Ranked,18,4,11,12952,23,96.48,60.43,1,4,7,19,Win
+925,Team Falcon,Team Elite,Vikendi,League,30,15,2,-3033,70,90.26,93.08,4,1,3,21,Loss
+926,Team Dragon,Team Galaxy,Miramar,Ranked,35,21,4,-11921,88,70.59,64.91,4,1,2,35,Loss
+927,Team Nova,Team Dragon,Inferno,League,11,19,13,-1749,55,57.1,96.67,3,2,4,36,Loss
+928,Team Hunter,Team Falcon,Miramar,League,10,25,9,-14977,29,65.81,78.9,2,3,3,51,Loss
+929,Team Galaxy,Team Cyber,Dust II,Ranked,11,17,5,890,70,88.81,82.78,3,2,9,24,Win
+930,Team Elite,Team Cyber,Mirage,Ranked,27,5,4,-1511,76,61.12,66.85,2,3,0,52,Loss
+931,Team Nova,Team Hunter,Erangel,Tournament,16,23,14,4583,35,78.27,81.23,1,4,1,33,Win
+932,Team Elite,Team Blaze,Vikendi,Tournament,31,15,5,16935,57,64.66,59.43,5,0,9,50,Win
+933,Team Hunter,Team Galaxy,Dust II,Tournament,28,3,3,3363,55,93.9,82.53,2,3,6,54,Win
+934,Team Blaze,Team Inferno,Inferno,League,17,20,15,-492,95,73.65,66.43,5,0,7,47,Win
+935,Team Galaxy,Team Alpha,Inferno,Tournament,8,20,3,-8780,35,96.57,65.26,4,1,10,50,Loss
+936,Team Alpha,Team Galaxy,Erangel,Ranked,30,16,1,11128,100,87.01,73.57,0,5,3,48,Win
+937,Team Falcon,Team Blaze,Erangel,Tournament,20,15,0,14925,52,70.42,84.37,2,3,3,29,Win
+938,Team Elite,Team Cyber,Vikendi,Tournament,15,19,10,11300,64,88.58,62.4,3,2,1,33,Win
+939,Team Elite,Team Blaze,Nuke,League,7,22,12,5507,99,76.38,63.01,3,2,3,28,Win
+940,Team Hunter,Team Falcon,Sanhok,Tournament,12,7,10,-13957,34,63.16,68.35,4,1,10,47,Loss
+941,Team Blaze,Team Elite,Mirage,Ranked,7,4,12,2260,38,85.78,77.91,3,2,2,36,Win
+942,Team Blaze,Team Galaxy,Vikendi,League,16,16,1,1115,90,61.67,97.69,0,5,7,26,Loss
+943,Team Dragon,Team Inferno,Vikendi,League,15,6,0,4450,51,96.48,91.87,3,2,7,38,Win
+944,Team Inferno,Team Galaxy,Miramar,Tournament,26,25,8,8853,53,73.55,70.67,1,4,5,46,Win
+945,Team Cyber,Team Galaxy,Dust II,League,17,19,4,-8668,84,85.46,78.02,0,5,9,26,Loss
+946,Team Inferno,Team Dragon,Nuke,League,31,10,1,15162,99,73.83,80.42,0,5,2,13,Win
+947,Team Alpha,Team Galaxy,Nuke,League,32,24,4,-10821,65,57.81,85.91,4,1,4,13,Loss
+948,Team Cyber,Team Hunter,Sanhok,Tournament,15,23,14,5304,88,84.98,68.1,1,4,9,44,Win
+949,Team Nova,Team Falcon,Sanhok,Tournament,2,21,1,8484,95,60.15,97.03,4,1,1,45,Win
+950,Team Dragon,Team Cyber,Inferno,Tournament,13,2,15,-7169,62,58.83,95.68,4,1,10,36,Loss
+951,Team Cyber,Team Galaxy,Inferno,Tournament,13,5,9,8275,42,85.41,92.8,3,2,1,23,Win
+952,Team Falcon,Team Blaze,Miramar,Tournament,23,16,3,1893,22,92.81,57.62,4,1,0,55,Win
+953,Team Inferno,Team Alpha,Nuke,Ranked,2,12,12,5071,23,89.4,79.43,2,3,1,23,Win
+954,Team Dragon,Team Galaxy,Erangel,Tournament,8,23,4,9521,93,62.61,73.95,1,4,8,21,Win
+955,Team Inferno,Team Blaze,Sanhok,League,21,11,3,7875,43,80.37,62.2,0,5,7,24,Win
+956,Team Falcon,Team Inferno,Dust II,Ranked,26,16,3,-10710,63,65.59,61.08,3,2,3,37,Loss
+957,Team Hunter,Team Blaze,Inferno,Tournament,35,4,10,10833,89,82.66,67.15,1,4,7,24,Win
+958,Team Galaxy,Team Blaze,Erangel,League,33,2,15,-8164,61,79.13,81.22,2,3,7,30,Loss
+959,Team Alpha,Team Elite,Erangel,Tournament,7,11,5,5555,26,77.97,57.03,2,3,6,24,Win
+960,Team Galaxy,Team Nova,Vikendi,League,35,7,11,-12070,47,59.24,95.85,1,4,5,16,Loss
+961,Team Nova,Team Alpha,Dust II,Ranked,4,14,6,-7377,57,55.2,65.34,2,3,2,36,Loss
+962,Team Galaxy,Team Alpha,Mirage,League,11,6,7,1920,74,84.26,85.54,5,0,4,25,Win
+963,Team Alpha,Team Hunter,Nuke,League,28,14,8,-2582,82,65.9,55.45,5,0,6,14,Loss
+964,Team Dragon,Team Blaze,Inferno,League,9,5,5,17016,28,62.88,69.08,5,0,4,55,Win
+965,Team Elite,Team Falcon,Erangel,League,18,5,3,10880,45,95.86,78.85,3,2,3,20,Win
+966,Team Blaze,Team Cyber,Nuke,Tournament,16,3,12,-2911,30,87.79,89.68,1,4,6,51,Loss
+967,Team Hunter,Team Alpha,Nuke,Tournament,34,8,6,5835,25,79.46,95.79,2,3,4,23,Win
+968,Team Alpha,Team Hunter,Miramar,Tournament,26,6,9,-10829,48,62.91,63.36,5,0,7,13,Loss
+969,Team Nova,Team Inferno,Erangel,League,20,19,5,-5605,90,96.46,57.44,5,0,1,38,Loss
+970,Team Cyber,Team Galaxy,Vikendi,Ranked,25,3,4,-8198,49,55.25,55.15,0,5,6,48,Loss
+971,Team Alpha,Team Nova,Mirage,Tournament,6,2,15,10300,56,84.48,71.63,5,0,3,55,Win
+972,Team Hunter,Team Inferno,Erangel,Tournament,11,16,11,-331,38,67.34,86.43,3,2,4,22,Loss
+973,Team Elite,Team Cyber,Nuke,Tournament,4,16,13,-125,71,60.38,81.94,1,4,6,38,Loss
+974,Team Hunter,Team Galaxy,Vikendi,League,31,13,10,6365,71,60.72,77.79,1,4,3,24,Win
+975,Team Nova,Team Falcon,Mirage,Tournament,31,19,13,9563,59,64.18,61.08,0,5,8,53,Win
+976,Team Nova,Team Galaxy,Erangel,Tournament,5,8,6,7130,90,93.27,83.37,4,1,6,23,Win
+977,Team Galaxy,Team Cyber,Sanhok,Ranked,19,25,4,11337,93,88.62,63.51,3,2,5,41,Win
+978,Team Hunter,Team Falcon,Dust II,Tournament,35,25,1,-8639,28,58.69,55.37,0,5,5,17,Loss
+979,Team Cyber,Team Elite,Miramar,Tournament,21,4,11,5676,94,93.89,74.2,2,3,2,30,Win
+980,Team Cyber,Team Dragon,Sanhok,Ranked,12,15,3,11848,40,79.15,82.03,5,0,4,27,Win
+981,Team Blaze,Team Alpha,Sanhok,League,10,14,15,9862,81,62.33,55.86,5,0,5,40,Win
+982,Team Alpha,Team Inferno,Vikendi,Ranked,24,12,2,9246,28,62.62,81.83,5,0,6,21,Win
+983,Team Falcon,Team Elite,Mirage,Ranked,7,13,15,-13955,99,93.32,72.96,1,4,5,28,Loss
+984,Team Alpha,Team Inferno,Nuke,League,22,7,1,650,59,66.31,97.83,2,3,0,29,Loss
+985,Team Falcon,Team Nova,Mirage,League,4,6,0,-13741,58,71.37,93.89,3,2,6,14,Loss
+986,Team Falcon,Team Galaxy,Mirage,Tournament,34,15,13,7421,36,95.54,85.92,4,1,3,43,Win
+987,Team Hunter,Team Blaze,Sanhok,Ranked,22,18,3,-13493,36,89.67,59.6,0,5,2,35,Loss
+988,Team Dragon,Team Blaze,Miramar,League,6,2,0,7356,99,58.03,80.06,3,2,10,33,Win
+989,Team Alpha,Team Dragon,Erangel,Ranked,14,25,2,-2839,31,85.88,58.94,3,2,10,26,Win
+990,Team Galaxy,Team Falcon,Nuke,Ranked,35,8,15,-2070,83,81.03,63.0,2,3,10,49,Win
+991,Team Alpha,Team Cyber,Dust II,Ranked,13,8,8,-5570,89,79.74,63.14,0,5,1,24,Loss
+992,Team Dragon,Team Cyber,Erangel,League,27,22,9,12019,84,82.55,64.39,2,3,5,27,Win
+993,Team Elite,Team Falcon,Nuke,League,12,4,1,-10886,83,69.8,86.52,4,1,6,17,Loss
+994,Team Blaze,Team Galaxy,Nuke,Tournament,25,24,2,2199,60,74.38,86.91,3,2,5,43,Win
+995,Team Dragon,Team Elite,Sanhok,Tournament,12,3,11,11852,79,92.84,68.95,3,2,7,41,Win
+996,Team Galaxy,Team Hunter,Sanhok,Ranked,3,6,10,9999,100,61.42,70.73,3,2,10,23,Win
+997,Team Alpha,Team Hunter,Vikendi,Ranked,32,6,8,7106,45,55.93,71.87,2,3,8,29,Win
+998,Team Hunter,Team Galaxy,Sanhok,Tournament,29,7,15,-11084,65,96.34,57.88,2,3,7,50,Loss
+999,Team Hunter,Team Dragon,Miramar,League,28,17,0,5185,100,61.82,82.11,5,0,9,39,Win
+1000,Team Inferno,Team Elite,Vikendi,Tournament,23,25,11,-6603,67,79.31,75.36,0,5,7,35,Loss

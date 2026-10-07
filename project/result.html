@@ -1,0 +1,10 @@
+
+<!DOCTYPE html><html><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Prediction Result</title><link rel="stylesheet" href="/static/style.css"></head><body>
+<header><div class="brand">⚡ ESPORTS AI</div><nav><a href="/">New Prediction</a><a href="/dataset">Dataset</a></nav></header>
+<main class="result-wrap"><div class="result card">
+<p class="eyebrow">NEURAL NETWORK PREDICTION</p><h1>Predicted Outcome</h1><div class="outcome">{{outcome}}</div>
+<div class="prob-grid"><div><b>{{win_prob}}%</b><small>Win Probability</small></div><div><b>{{loss_prob}}%</b><small>Loss Probability</small></div><div><b>{{confidence}}%</b><small>Confidence</small></div></div>
+<div class="bar"><span style="width:{{win_prob}}%"></span></div>
+<p class="note">This result is a model prediction based on the input statistics and the training dataset. It is not a guarantee of the actual match result.</p>
+<a class="button" href="/">← Predict Another Match</a></div></main></body></html>
